@@ -1,10 +1,1 @@
-Add these lines to the "Figures, tables and maths in posts" section of style.css:
-
-After the line  tbody tr:first-child > * { border-block-start: 1px solid var(--fg); }
-add             tbody td:first-child { font-weight: 700; }
-
-Before the line  math { font-size: 1.1em; }
-add              mark { background: var(--fg); color: var(--bg); }
-                 iframe { display: block; width: 100%; border: 0; }
-
-Then, in the site folder:   python build.py
+lol
