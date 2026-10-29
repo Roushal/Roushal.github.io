@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="477.907896pt" height="452.45793pt" viewBox="0 0 477.907896 452.45793" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-28T07:32:12.152244</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 452.45793 
+L 477.907896 452.45793 
+L 477.907896 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 393.154815 204.06216 
+C 393.154815 184.046024 389.212072 164.224519 381.552228 145.732021 
+C 373.892385 127.239522 362.664404 110.435662 348.510859 96.282116 
+C 334.357313 82.12857 317.553453 70.90059 299.060954 63.240746 
+C 280.568455 55.580902 260.746951 51.63816 240.730815 51.63816 
+C 220.714678 51.63816 200.893174 55.580902 182.400675 63.240746 
+C 163.908176 70.90059 147.104316 82.12857 132.950771 96.282116 
+C 118.797225 110.435662 107.569244 127.239522 99.909401 145.732021 
+C 92.249557 164.224519 88.306815 184.046024 88.306815 204.06216 
+C 88.306815 224.078296 92.249557 243.899801 99.909401 262.392299 
+C 107.569244 280.884798 118.797225 297.688658 132.950771 311.842204 
+C 147.104316 325.99575 163.908176 337.22373 182.400675 344.883574 
+C 200.893174 352.543418 220.714678 356.48616 240.730815 356.48616 
+C 260.746951 356.48616 280.568455 352.543418 299.060954 344.883574 
+C 317.553453 337.22373 334.357313 325.99575 348.510859 311.842204 
+C 362.664404 297.688658 373.892385 280.884798 381.552228 262.392299 
+C 389.212072 243.899801 393.154815 224.078296 393.154815 204.06216 
+M 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 240.730815 204.06216 
+L 240.730815 51.63816 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <path d="M 240.730815 204.06216 
+L 292.862893 60.830452 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <path d="M 240.730815 204.06216 
+L 338.707073 87.298602 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <path d="M 240.730815 204.06216 
+L 372.733871 127.85016 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <path d="M 240.730815 204.06216 
+L 390.839151 177.59401 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <path d="M 240.730815 204.06216 
+L 390.839151 230.53031 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <path d="M 240.730815 204.06216 
+L 372.733871 280.27416 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <path d="M 240.730815 204.06216 
+L 338.707073 320.825718 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <path d="M 240.730815 204.06216 
+L 292.862893 347.293868 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <path d="M 240.730815 204.06216 
+L 240.730815 356.48616 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <path d="M 240.730815 204.06216 
+L 188.598736 347.293868 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12">
+      <path d="M 240.730815 204.06216 
+L 142.754556 320.825718 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_13">
+      <path d="M 240.730815 204.06216 
+L 108.727758 280.27416 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_14">
+      <path d="M 240.730815 204.06216 
+L 90.622478 230.53031 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_15">
+      <path d="M 240.730815 204.06216 
+L 90.622478 177.59401 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_16">
+      <path d="M 240.730815 204.06216 
+L 108.727758 127.85016 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_17">
+      <path d="M 240.730815 204.06216 
+L 142.754556 87.298602 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_18">
+      <path d="M 240.730815 204.06216 
+L 188.598736 60.830452 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19">
+      <path d="M 240.730815 160.950142 
+C 246.392233 160.950142 251.998601 162.065318 257.229069 164.231849 
+C 262.459538 166.39838 267.212387 169.574133 271.215615 173.57736 
+C 275.218842 177.580587 278.394594 182.333437 280.561125 187.563905 
+C 282.727656 192.794374 283.842832 198.400742 283.842832 204.06216 
+C 283.842832 209.723578 282.727656 215.329946 280.561125 220.560415 
+C 278.394594 225.790883 275.218842 230.543733 271.215615 234.54696 
+C 267.212387 238.550187 262.459538 241.72594 257.229069 243.892471 
+C 251.998601 246.059002 246.392233 247.174178 240.730815 247.174178 
+C 235.069396 247.174178 229.463028 246.059002 224.23256 243.892471 
+C 219.002091 241.72594 214.249242 238.550187 210.246015 234.54696 
+C 206.242787 230.543733 203.067035 225.790883 200.900504 220.560415 
+C 198.733973 215.329946 197.618797 209.723578 197.618797 204.06216 
+C 197.618797 198.400742 198.733973 192.794374 200.900504 187.563905 
+C 203.067035 182.333437 206.242787 177.580587 210.246015 173.57736 
+C 214.249242 169.574133 219.002091 166.39838 224.23256 164.231849 
+C 229.463028 162.065318 235.069396 160.950142 240.730815 160.950142 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 6.5px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #737373" x="248.217138" y="160.305111" transform="rotate(-0 248.217138 160.305111)">2%</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_20">
+      <path d="M 240.730815 135.896075 
+C 249.682303 135.896075 258.546749 137.659323 266.816846 141.084909 
+C 275.086943 144.510495 282.601857 149.531801 288.931516 155.861459 
+C 295.261174 162.191117 300.282479 169.706032 303.708065 177.976129 
+C 307.133652 186.246225 308.8969 195.110672 308.8969 204.06216 
+C 308.8969 213.013648 307.133652 221.878095 303.708065 230.148191 
+C 300.282479 238.418288 295.261174 245.933203 288.931516 252.262861 
+C 282.601857 258.592519 275.086943 263.613825 266.816846 267.039411 
+C 258.546749 270.464997 249.682303 272.228245 240.730815 272.228245 
+C 231.779326 272.228245 222.91488 270.464997 214.644783 267.039411 
+C 206.374686 263.613825 198.859772 258.592519 192.530114 252.262861 
+C 186.200455 245.933203 181.17915 238.418288 177.753564 230.148191 
+C 174.327977 221.878095 172.564729 213.013648 172.564729 204.06216 
+C 172.564729 195.110672 174.327977 186.246225 177.753564 177.976129 
+C 181.17915 169.706032 186.200455 162.191117 192.530114 155.861459 
+C 198.859772 149.531801 206.374686 144.510495 214.644783 141.084909 
+C 222.91488 137.659323 231.779326 135.896075 240.730815 135.896075 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 6.5px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #737373" x="252.567731" y="135.631671" transform="rotate(-0 252.567731 135.631671)">5%</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_21">
+      <path d="M 240.730815 107.660758 
+C 253.390131 107.660758 265.926351 110.154367 277.622034 114.998878 
+C 289.317717 119.843388 299.945411 126.944587 308.8969 135.896075 
+C 317.848388 144.847563 324.949586 155.475258 329.794097 167.170941 
+C 334.638607 178.866624 337.132217 191.402844 337.132217 204.06216 
+C 337.132217 216.721476 334.638607 229.257696 329.794097 240.953379 
+C 324.949586 252.649062 317.848388 263.276757 308.8969 272.228245 
+C 299.945411 281.179733 289.317717 288.280932 277.622034 293.125442 
+C 265.926351 297.969953 253.390131 300.463562 240.730815 300.463562 
+C 228.071498 300.463562 215.535278 297.969953 203.839595 293.125442 
+C 192.143912 288.280932 181.516218 281.179733 172.564729 272.228245 
+C 163.613241 263.276757 156.512043 252.649062 151.667532 240.953379 
+C 146.823022 229.257696 144.329413 216.721476 144.329413 204.06216 
+C 144.329413 191.402844 146.823022 178.866624 151.667532 167.170941 
+C 156.512043 155.475258 163.613241 144.847563 172.564729 135.896075 
+C 181.516218 126.944587 192.143912 119.843388 203.839595 114.998878 
+C 215.535278 110.154367 228.071498 107.660758 240.730815 107.660758 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 6.5px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #737373" x="257.470742" y="107.825312" transform="rotate(-0 257.470742 107.825312)">10%</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_22">
+      <path d="M 240.730815 67.72999 
+C 258.633791 67.72999 276.362684 71.256486 292.902877 78.107658 
+C 309.443071 84.958831 324.4729 95.001442 337.132217 107.660758 
+C 349.791533 120.320074 359.834144 135.349904 366.685316 151.890097 
+C 373.536489 168.430291 377.062985 186.159183 377.062985 204.06216 
+C 377.062985 221.965137 373.536489 239.694029 366.685316 256.234223 
+C 359.834144 272.774416 349.791533 287.804246 337.132217 300.463562 
+C 324.4729 313.122878 309.443071 323.165489 292.902877 330.016662 
+C 276.362684 336.867834 258.633791 340.39433 240.730815 340.39433 
+C 222.827838 340.39433 205.098945 336.867834 188.558752 330.016662 
+C 172.018558 323.165489 156.988729 313.122878 144.329413 300.463562 
+C 131.670096 287.804246 121.627485 272.774416 114.776313 256.234223 
+C 107.92514 239.694029 104.398644 221.965137 104.398644 204.06216 
+C 104.398644 186.159183 107.92514 168.430291 114.776313 151.890097 
+C 121.627485 135.349904 131.670096 120.320074 144.329413 107.660758 
+C 156.988729 95.001442 172.018558 84.958831 188.558752 78.107658 
+C 205.098945 71.256486 222.827838 67.72999 240.730815 67.72999 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 6.5px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #737373" x="264.404647" y="68.501182" transform="rotate(-0 264.404647 68.501182)">20%</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 240.730815 181.941814 
+L 257.037854 159.258937 
+L 293.79271 140.825455 
+L 267.361116 188.687148 
+L 316.234345 190.74885 
+L 281.352092 211.224787 
+L 268.656091 220.184826 
+L 276.308942 246.462521 
+L 283.167163 320.65507 
+L 240.730815 259.88209 
+L 228.28858 238.246917 
+L 209.687427 241.058228 
+L 166.697519 246.805303 
+L 163.782113 217.630292 
+L 184.131357 194.082149 
+L 172.52945 164.686084 
+L 150.358471 96.360595 
+L 215.652161 135.159126 
+z
+" clip-path="url(#pcc0ed11947)" style="fill: #d4d4d4; opacity: 0.75"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 240.730815 181.941814 
+L 257.037854 159.258937 
+L 293.79271 140.825455 
+L 267.361116 188.687148 
+L 316.234345 190.74885 
+L 281.352092 211.224787 
+L 268.656091 220.184826 
+L 276.308942 246.462521 
+L 283.167163 320.65507 
+L 240.730815 259.88209 
+L 228.28858 238.246917 
+L 209.687427 241.058228 
+L 166.697519 246.805303 
+L 163.782113 217.630292 
+L 184.131357 194.082149 
+L 172.52945 164.686084 
+L 150.358471 96.360595 
+L 215.652161 135.159126 
+L 240.730815 181.941814 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #737373; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: middle; fill: #171717" x="240.730815" y="14.56" transform="rotate(-0 240.730815 14.56)">ICT</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #737373" x="240.730815" y="25.7" transform="rotate(-0 240.730815 25.7)">0.5% of jobs</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #737373" x="240.730815" y="36.58" transform="rotate(-0 240.730815 36.58)">0.1% exposed</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="301.55478" y="24.579598" transform="rotate(-0 301.55478 24.579598)">Finance &amp; business</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="301.55478" y="35.719598" transform="rotate(-0 301.55478 35.719598)">2.4% of jobs</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="301.55478" y="46.599598" transform="rotate(-0 301.55478 46.599598)">1.0% exposed</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="351.524936" y="53.333632" transform="rotate(-0 351.524936 53.333632)">Managers</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="351.524936" y="64.569882" transform="rotate(-0 351.524936 64.569882)">7.3% of jobs</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="351.524936" y="75.449882" transform="rotate(-0 351.524936 75.449882)">0.0% exposed</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="388.614146" y="97.53483" transform="rotate(-0 388.614146 97.53483)">Legal &amp; social</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="388.614146" y="108.77108" transform="rotate(-0 388.614146 108.77108)">1.0% of jobs</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="388.614146" y="119.65108" transform="rotate(-0 388.614146 119.65108)">0.1% exposed</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="408.348902" y="166.491877" transform="rotate(-0 408.348902 166.491877)">Teachers</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="408.348902" y="177.047572" transform="rotate(-0 408.348902 177.047572)">6.3% of jobs</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="408.348902" y="187.900877" transform="rotate(-0 408.348902 187.900877)">0.0% exposed</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="408.348902" y="224.192443" transform="rotate(-0 408.348902 224.192443)">Health</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="408.348902" y="234.748139" transform="rotate(-0 408.348902 234.748139)">1.8% of jobs</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="408.348902" y="245.601443" transform="rotate(-0 408.348902 245.601443)">0.0% exposed</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="388.614146" y="293.08574" transform="rotate(-0 388.614146 293.08574)">Engineering &amp; science</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="388.614146" y="303.024631" transform="rotate(-0 388.614146 303.024631)">1.1% of jobs</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="388.614146" y="313.85124" transform="rotate(-0 388.614146 313.85124)">0.0% exposed</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="351.524936" y="337.254438" transform="rotate(-0 351.524936 337.254438)">Clerical</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="351.524936" y="347.225829" transform="rotate(-0 351.524936 347.225829)">3.3% of jobs</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="351.524936" y="358.052438" transform="rotate(-0 351.524936 358.052438)">2.3% exposed</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="301.55478" y="366.104722" transform="rotate(-0 301.55478 366.104722)">Shop sales</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="301.55478" y="376.076112" transform="rotate(-0 301.55478 376.076112)">16.6% of jobs</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #737373" x="301.55478" y="386.902722" transform="rotate(-0 301.55478 386.902722)">0.3% exposed</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: middle; fill: #171717" x="240.730815" y="376.12432" transform="rotate(-0 240.730815 376.12432)">Personal services</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #737373" x="240.730815" y="386.095711" transform="rotate(-0 240.730815 386.095711)">3.4% of jobs</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #737373" x="240.730815" y="396.92232" transform="rotate(-0 240.730815 396.92232)">0.0% exposed</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: end; fill: #171717" x="179.906849" y="366.137222" transform="rotate(-0 179.906849 366.137222)">Care &amp; protective</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="179.906849" y="376.076112" transform="rotate(-0 179.906849 376.076112)">1.4% of jobs</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="179.906849" y="386.902722" transform="rotate(-0 179.906849 386.902722)">0.0% exposed</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: end; fill: #171717" x="129.936693" y="337.254438" transform="rotate(-0 129.936693 337.254438)">Farmers</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="129.936693" y="347.225829" transform="rotate(-0 129.936693 347.225829)">2.5% of jobs</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="129.936693" y="358.052438" transform="rotate(-0 129.936693 358.052438)">0.0% exposed</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: end; fill: #171717" x="92.847483" y="293.05324" transform="rotate(-0 92.847483 293.05324)">Construction trades</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="92.847483" y="303.024631" transform="rotate(-0 92.847483 303.024631)">7.9% of jobs</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="92.847483" y="313.85124" transform="rotate(-0 92.847483 313.85124)">0.0% exposed</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: end; fill: #171717" x="73.112727" y="224.192443" transform="rotate(-0 73.112727 224.192443)">Garment &amp; crafts</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="73.112727" y="234.748139" transform="rotate(-0 73.112727 234.748139)">6.6% of jobs</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="73.112727" y="245.601443" transform="rotate(-0 73.112727 245.601443)">0.0% exposed</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: end; fill: #171717" x="73.112727" y="166.491877" transform="rotate(-0 73.112727 166.491877)">Metal &amp; electrical</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="73.112727" y="177.047572" transform="rotate(-0 73.112727 177.047572)">3.6% of jobs</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="73.112727" y="187.900877" transform="rotate(-0 73.112727 187.900877)">0.0% exposed</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: end; fill: #171717" x="92.847483" y="97.63108" transform="rotate(-0 92.847483 97.63108)">Drivers &amp; operators</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="92.847483" y="108.77108" transform="rotate(-0 92.847483 108.77108)">6.7% of jobs</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="92.847483" y="119.65108" transform="rotate(-0 92.847483 119.65108)">0.0% exposed</text>
+   </g>
+   <g id="text_53">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: end; fill: #171717" x="129.936693" y="53.333632" transform="rotate(-0 129.936693 53.333632)">Farm &amp; building labour</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="129.936693" y="64.569882" transform="rotate(-0 129.936693 64.569882)">21.3% of jobs</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="129.936693" y="75.449882" transform="rotate(-0 129.936693 75.449882)">0.0% exposed</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 500; font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: end; fill: #171717" x="179.906849" y="24.579598" transform="rotate(-0 179.906849 24.579598)">Cleaners &amp; street work</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="179.906849" y="35.719598" transform="rotate(-0 179.906849 35.719598)">5.8% of jobs</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 6.7px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #737373" x="179.906849" y="46.599598" transform="rotate(-0 179.906849 46.599598)">0.0% exposed</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 240.730815 192.719092 
+L 250.957697 175.964032 
+L 240.730815 204.06216 
+L 248.999329 199.288331 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 270.575319 239.629456 
+L 245.986108 218.500959 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+z
+" clip-path="url(#pcc0ed11947)" style="fill: #51a2ff; opacity: 0.85"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 240.730815 192.719092 
+L 250.957697 175.964032 
+L 240.730815 204.06216 
+L 248.999329 199.288331 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 270.575319 239.629456 
+L 245.986108 218.500959 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 204.06216 
+L 240.730815 192.719092 
+" clip-path="url(#pcc0ed11947)" style="fill: none; stroke: #155dfc; stroke-width: 1.7; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="text_59">
+   <text style="font-size: 6.8px; font-family: 'IBM Plex Sans'; fill: #737373" transform="translate(8.64 433.440705)">Exposure = potential task overlap with current generative AI. NLSS-IV 2022/23, employment-weighted. Radius is proportional to the</text>
+   <text style="font-size: 6.8px; font-family: 'IBM Plex Sans'; fill: #737373" transform="translate(8.64 442.376118)">square root of the share (rings at 2%, 5%, 10%, 20%). Armed forces and unknown occupations omitted.</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_5">
+    <path d="M 78.352065 413.866035 
+L 87.952065 413.866035 
+L 87.952065 408.266035 
+L 78.352065 408.266035 
+z
+" style="fill: #d4d4d4; stroke: #737373; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="91.952065" y="413.866035" transform="rotate(-0 91.952065 413.866035)">All jobs in the group (% of all employed)</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 247.630815 413.866035 
+L 257.230815 413.866035 
+L 257.230815 408.266035 
+L 247.630815 408.266035 
+z
+" style="fill: #51a2ff; stroke: #155dfc; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 8px; font-family: 'IBM Plex Sans'; text-anchor: start; fill: #171717" x="261.230815" y="413.866035" transform="rotate(-0 261.230815 413.866035)">Highly exposed jobs (ILO gradient &gt;= 3)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcc0ed11947">
+   <path d="M 393.154815 204.06216 
+C 393.154815 184.046024 389.212072 164.224519 381.552228 145.732021 
+C 373.892385 127.239522 362.664404 110.435662 348.510859 96.282116 
+C 334.357313 82.12857 317.553453 70.90059 299.060954 63.240746 
+C 280.568455 55.580902 260.746951 51.63816 240.730815 51.63816 
+C 220.714678 51.63816 200.893174 55.580902 182.400675 63.240746 
+C 163.908176 70.90059 147.104316 82.12857 132.950771 96.282116 
+C 118.797225 110.435662 107.569244 127.239522 99.909401 145.732021 
+C 92.249557 164.224519 88.306815 184.046024 88.306815 204.06216 
+C 88.306815 224.078296 92.249557 243.899801 99.909401 262.392299 
+C 107.569244 280.884798 118.797225 297.688658 132.950771 311.842204 
+C 147.104316 325.99575 163.908176 337.22373 182.400675 344.883574 
+C 200.893174 352.543418 220.714678 356.48616 240.730815 356.48616 
+C 260.746951 356.48616 280.568455 352.543418 299.060954 344.883574 
+C 317.553453 337.22373 334.357313 325.99575 348.510859 311.842204 
+C 362.664404 297.688658 373.892385 280.884798 381.552228 262.392299 
+C 389.212072 243.899801 393.154815 224.078296 393.154815 204.06216 
+M 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+C 240.730815 204.06216 240.730815 204.06216 240.730815 204.06216 
+z
+"/>
+  </clipPath>
+ </defs>
+</svg>

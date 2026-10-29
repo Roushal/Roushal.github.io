@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Raushal Shrestha</title>
+  <subtitle>Notes and essays.</subtitle>
+  <link href="https://roushal.github.io/feed.xml" rel="self"/>
+  <link href="https://roushal.github.io/"/>
+  <id>https://roushal.github.io/</id>
+  <updated>2026-10-30T00:00:00+05:45</updated>
+  <author>
+    <name>Raushal Shrestha</name>
+  </author>
+  <entry>
+    <title>What does AI mean for Nepal?</title>
+    <link href="https://roushal.github.io/blog/ai-exposure-nepal/"/>
+    <id>https://roushal.github.io/blog/ai-exposure-nepal/</id>
+    <published>2026-10-30T00:00:00+05:45</published>
+    <updated>2026-10-30T00:00:00+05:45</updated>
+    <summary>Mapping AI exposure onto Nepal’s labor force</summary>
+  </entry>
+  <entry>
+    <title>Notes on this website</title>
+    <link href="https://roushal.github.io/blog/this-website/"/>
+    <id>https://roushal.github.io/blog/this-website/</id>
+    <published>2026-10-30T00:00:00+05:45</published>
+    <updated>2026-10-30T00:00:00+05:45</updated>
+    <summary>The design decisions behind this website</summary>
+  </entry>
+</feed>

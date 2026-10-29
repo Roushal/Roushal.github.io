@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="530.649081pt" height="511.95177pt" viewBox="0 0 530.649081 511.95177" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-24T14:24:24.706029</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 511.95177 
+L 530.649081 511.95177 
+L 530.649081 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 445.896 263.556 
+C 445.896 243.539864 441.953258 223.718359 434.293414 205.225861 
+C 426.63357 186.733362 415.40559 169.929502 401.252044 155.775956 
+C 387.098498 141.62241 370.294638 130.39443 351.802139 122.734586 
+C 333.309641 115.074742 313.488136 111.132 293.472 111.132 
+C 273.455864 111.132 253.634359 115.074742 235.141861 122.734586 
+C 216.649362 130.39443 199.845502 141.62241 185.691956 155.775956 
+C 171.53841 169.929502 160.31043 186.733362 152.650586 205.225861 
+C 144.990742 223.718359 141.048 243.539864 141.048 263.556 
+C 141.048 283.572136 144.990742 303.393641 152.650586 321.886139 
+C 160.31043 340.378638 171.53841 357.182498 185.691956 371.336044 
+C 199.845502 385.48959 216.649362 396.71757 235.141861 404.377414 
+C 253.634359 412.037258 273.455864 415.98 293.472 415.98 
+C 313.488136 415.98 333.309641 412.037258 351.802139 404.377414 
+C 370.294638 396.71757 387.098498 385.48959 401.252044 371.336044 
+C 415.40559 357.182498 426.63357 340.378638 434.293414 321.886139 
+C 441.953258 303.393641 445.896 283.572136 445.896 263.556 
+M 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 293.472 263.556 
+L 293.472 111.132 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <path d="M 293.472 263.556 
+L 345.604078 120.324292 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <path d="M 293.472 263.556 
+L 391.448259 146.792442 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <path d="M 293.472 263.556 
+L 425.475056 187.344 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <path d="M 293.472 263.556 
+L 443.580337 237.08785 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <path d="M 293.472 263.556 
+L 443.580337 290.02415 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <path d="M 293.472 263.556 
+L 425.475056 339.768 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <path d="M 293.472 263.556 
+L 391.448259 380.319558 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <path d="M 293.472 263.556 
+L 345.604078 406.787708 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <path d="M 293.472 263.556 
+L 293.472 415.98 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <path d="M 293.472 263.556 
+L 241.339922 406.787708 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12">
+      <path d="M 293.472 263.556 
+L 195.495741 380.319558 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_13">
+      <path d="M 293.472 263.556 
+L 161.468944 339.768 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_14">
+      <path d="M 293.472 263.556 
+L 143.363663 290.02415 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_15">
+      <path d="M 293.472 263.556 
+L 143.363663 237.08785 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_16">
+      <path d="M 293.472 263.556 
+L 161.468944 187.344 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_17">
+      <path d="M 293.472 263.556 
+L 195.495741 146.792442 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_18">
+      <path d="M 293.472 263.556 
+L 241.339922 120.324292 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.5; stroke-linecap: square"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19">
+      <path d="M 293.472 220.443982 
+C 299.133418 220.443982 304.739786 221.559158 309.970255 223.725689 
+C 315.200723 225.89222 319.953573 229.067973 323.9568 233.0712 
+C 327.960027 237.074427 331.13578 241.827277 333.302311 247.057745 
+C 335.468842 252.288214 336.584018 257.894582 336.584018 263.556 
+C 336.584018 269.217418 335.468842 274.823786 333.302311 280.054255 
+C 331.13578 285.284723 327.960027 290.037573 323.9568 294.0408 
+C 319.953573 298.044027 315.200723 301.21978 309.970255 303.386311 
+C 304.739786 305.552842 299.133418 306.668018 293.472 306.668018 
+C 287.810582 306.668018 282.204214 305.552842 276.973745 303.386311 
+C 271.743277 301.21978 266.990427 298.044027 262.9872 294.0408 
+C 258.983973 290.037573 255.80822 285.284723 253.641689 280.054255 
+C 251.475158 274.823786 250.359982 269.217418 250.359982 263.556 
+C 250.359982 257.894582 251.475158 252.288214 253.641689 247.057745 
+C 255.80822 241.827277 258.983973 237.074427 262.9872 233.0712 
+C 266.990427 229.067973 271.743277 225.89222 276.973745 223.725689 
+C 282.204214 221.559158 287.810582 220.443982 293.472 220.443982 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 6.5px; font-family: system-ui, sans-serif; text-anchor: start; fill: #737373" x="300.958323" y="219.798951" transform="rotate(-0 300.958323 219.798951)">2%</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_20">
+      <path d="M 293.472 195.389915 
+C 302.423488 195.389915 311.287935 197.153163 319.558031 200.578749 
+C 327.828128 204.004335 335.343043 209.025641 341.672701 215.355299 
+C 348.002359 221.684957 353.023665 229.199872 356.449251 237.469969 
+C 359.874837 245.740065 361.638085 254.604512 361.638085 263.556 
+C 361.638085 272.507488 359.874837 281.371935 356.449251 289.642031 
+C 353.023665 297.912128 348.002359 305.427043 341.672701 311.756701 
+C 335.343043 318.086359 327.828128 323.107665 319.558031 326.533251 
+C 311.287935 329.958837 302.423488 331.722085 293.472 331.722085 
+C 284.520512 331.722085 275.656065 329.958837 267.385969 326.533251 
+C 259.115872 323.107665 251.600957 318.086359 245.271299 311.756701 
+C 238.941641 305.427043 233.920335 297.912128 230.494749 289.642031 
+C 227.069163 281.371935 225.305915 272.507488 225.305915 263.556 
+C 225.305915 254.604512 227.069163 245.740065 230.494749 237.469969 
+C 233.920335 229.199872 238.941641 221.684957 245.271299 215.355299 
+C 251.600957 209.025641 259.115872 204.004335 267.385969 200.578749 
+C 275.656065 197.153163 284.520512 195.389915 293.472 195.389915 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 6.5px; font-family: system-ui, sans-serif; text-anchor: start; fill: #737373" x="305.308916" y="195.125511" transform="rotate(-0 305.308916 195.125511)">5%</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_21">
+      <path d="M 293.472 167.154598 
+C 306.131316 167.154598 318.667536 169.648207 330.363219 174.492718 
+C 342.058902 179.337228 352.686597 186.438427 361.638085 195.389915 
+C 370.589573 204.341403 377.690772 214.969098 382.535282 226.664781 
+C 387.379793 238.360464 389.873402 250.896684 389.873402 263.556 
+C 389.873402 276.215316 387.379793 288.751536 382.535282 300.447219 
+C 377.690772 312.142902 370.589573 322.770597 361.638085 331.722085 
+C 352.686597 340.673573 342.058902 347.774772 330.363219 352.619282 
+C 318.667536 357.463793 306.131316 359.957402 293.472 359.957402 
+C 280.812684 359.957402 268.276464 357.463793 256.580781 352.619282 
+C 244.885098 347.774772 234.257403 340.673573 225.305915 331.722085 
+C 216.354427 322.770597 209.253228 312.142902 204.408718 300.447219 
+C 199.564207 288.751536 197.070598 276.215316 197.070598 263.556 
+C 197.070598 250.896684 199.564207 238.360464 204.408718 226.664781 
+C 209.253228 214.969098 216.354427 204.341403 225.305915 195.389915 
+C 234.257403 186.438427 244.885098 179.337228 256.580781 174.492718 
+C 268.276464 169.648207 280.812684 167.154598 293.472 167.154598 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 6.5px; font-family: system-ui, sans-serif; text-anchor: start; fill: #737373" x="310.211928" y="167.319152" transform="rotate(-0 310.211928 167.319152)">10%</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_22">
+      <path d="M 293.472 127.22383 
+C 311.374977 127.22383 329.103869 130.750326 345.644063 137.601498 
+C 362.184256 144.452671 377.214086 154.495282 389.873402 167.154598 
+C 402.532718 179.813914 412.575329 194.843744 419.426502 211.383937 
+C 426.277674 227.924131 429.80417 245.653023 429.80417 263.556 
+C 429.80417 281.458977 426.277674 299.187869 419.426502 315.728063 
+C 412.575329 332.268256 402.532718 347.298086 389.873402 359.957402 
+C 377.214086 372.616718 362.184256 382.659329 345.644063 389.510502 
+C 329.103869 396.361674 311.374977 399.88817 293.472 399.88817 
+C 275.569023 399.88817 257.840131 396.361674 241.299937 389.510502 
+C 224.759744 382.659329 209.729914 372.616718 197.070598 359.957402 
+C 184.411282 347.298086 174.368671 332.268256 167.517498 315.728063 
+C 160.666326 299.187869 157.13983 281.458977 157.13983 263.556 
+C 157.13983 245.653023 160.666326 227.924131 167.517498 211.383937 
+C 174.368671 194.843744 184.411282 179.813914 197.070598 167.154598 
+C 209.729914 154.495282 224.759744 144.452671 241.299937 137.601498 
+C 257.840131 130.750326 275.569023 127.22383 293.472 127.22383 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 6.5px; font-family: system-ui, sans-serif; text-anchor: start; fill: #737373" x="317.145833" y="127.995022" transform="rotate(-0 317.145833 127.995022)">20%</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 293.472 241.435654 
+L 309.779039 218.752777 
+L 346.533896 200.319295 
+L 320.102302 248.180988 
+L 368.975531 250.24269 
+L 334.093277 270.718627 
+L 321.397277 279.678666 
+L 329.050127 305.956361 
+L 335.908349 380.14891 
+L 293.472 319.37593 
+L 281.029766 297.740757 
+L 262.428613 300.552068 
+L 219.438705 306.299143 
+L 216.523299 277.124132 
+L 236.872543 253.575989 
+L 225.270635 224.179924 
+L 203.099656 155.854435 
+L 268.393346 194.652966 
+z
+" clip-path="url(#p7f01059de5)" style="fill: #d4d4d4; opacity: 0.75"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 293.472 241.435654 
+L 309.779039 218.752777 
+L 346.533896 200.319295 
+L 320.102302 248.180988 
+L 368.975531 250.24269 
+L 334.093277 270.718627 
+L 321.397277 279.678666 
+L 329.050127 305.956361 
+L 335.908349 380.14891 
+L 293.472 319.37593 
+L 281.029766 297.740757 
+L 262.428613 300.552068 
+L 219.438705 306.299143 
+L 216.523299 277.124132 
+L 236.872543 253.575989 
+L 225.270635 224.179924 
+L 203.099656 155.854435 
+L 268.393346 194.652966 
+L 293.472 241.435654 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #737373; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: middle; fill: #171717" x="293.472" y="74.05384" transform="rotate(-0 293.472 74.05384)">ICT</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: middle; fill: #737373" x="293.472" y="85.19384" transform="rotate(-0 293.472 85.19384)">0.5% of jobs</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: middle; fill: #737373" x="293.472" y="96.07384" transform="rotate(-0 293.472 96.07384)">0.1% exposed</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="354.295965" y="84.073438" transform="rotate(-0 354.295965 84.073438)">Finance &amp; business</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="354.295965" y="95.213438" transform="rotate(-0 354.295965 95.213438)">2.4% of jobs</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="354.295965" y="106.093438" transform="rotate(-0 354.295965 106.093438)">1.0% exposed</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="404.266122" y="112.827472" transform="rotate(-0 404.266122 112.827472)">Managers</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="404.266122" y="124.063722" transform="rotate(-0 404.266122 124.063722)">7.3% of jobs</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="404.266122" y="134.943722" transform="rotate(-0 404.266122 134.943722)">0.0% exposed</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="441.355331" y="157.02867" transform="rotate(-0 441.355331 157.02867)">Legal &amp; social</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="441.355331" y="168.26492" transform="rotate(-0 441.355331 168.26492)">1.0% of jobs</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="441.355331" y="179.14492" transform="rotate(-0 441.355331 179.14492)">0.1% exposed</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="461.090087" y="225.985717" transform="rotate(-0 461.090087 225.985717)">Teachers</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="461.090087" y="236.541412" transform="rotate(-0 461.090087 236.541412)">6.3% of jobs</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="461.090087" y="247.394717" transform="rotate(-0 461.090087 247.394717)">0.0% exposed</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="461.090087" y="283.686283" transform="rotate(-0 461.090087 283.686283)">Health</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="461.090087" y="294.241979" transform="rotate(-0 461.090087 294.241979)">1.8% of jobs</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="461.090087" y="305.095283" transform="rotate(-0 461.090087 305.095283)">0.0% exposed</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="441.355331" y="352.57958" transform="rotate(-0 441.355331 352.57958)">Engineering &amp; science</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="441.355331" y="362.518471" transform="rotate(-0 441.355331 362.518471)">1.1% of jobs</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="441.355331" y="373.34508" transform="rotate(-0 441.355331 373.34508)">0.0% exposed</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="404.266122" y="396.748278" transform="rotate(-0 404.266122 396.748278)">Clerical</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="404.266122" y="406.719669" transform="rotate(-0 404.266122 406.719669)">3.3% of jobs</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="404.266122" y="417.546278" transform="rotate(-0 404.266122 417.546278)">2.3% exposed</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="354.295965" y="425.598562" transform="rotate(-0 354.295965 425.598562)">Shop sales</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="354.295965" y="435.569952" transform="rotate(-0 354.295965 435.569952)">16.6% of jobs</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: start; fill: #737373" x="354.295965" y="446.396562" transform="rotate(-0 354.295965 446.396562)">0.3% exposed</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: middle; fill: #171717" x="293.472" y="435.61816" transform="rotate(-0 293.472 435.61816)">Personal services</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: middle; fill: #737373" x="293.472" y="445.589551" transform="rotate(-0 293.472 445.589551)">3.4% of jobs</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: middle; fill: #737373" x="293.472" y="456.41616" transform="rotate(-0 293.472 456.41616)">0.0% exposed</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: end; fill: #171717" x="232.648035" y="425.631062" transform="rotate(-0 232.648035 425.631062)">Care &amp; protective</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="232.648035" y="435.569952" transform="rotate(-0 232.648035 435.569952)">1.4% of jobs</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="232.648035" y="446.396562" transform="rotate(-0 232.648035 446.396562)">0.0% exposed</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: end; fill: #171717" x="182.677878" y="396.748278" transform="rotate(-0 182.677878 396.748278)">Farmers</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="182.677878" y="406.719669" transform="rotate(-0 182.677878 406.719669)">2.5% of jobs</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="182.677878" y="417.546278" transform="rotate(-0 182.677878 417.546278)">0.0% exposed</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: end; fill: #171717" x="145.588669" y="352.54708" transform="rotate(-0 145.588669 352.54708)">Construction trades</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="145.588669" y="362.518471" transform="rotate(-0 145.588669 362.518471)">7.9% of jobs</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="145.588669" y="373.34508" transform="rotate(-0 145.588669 373.34508)">0.0% exposed</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: end; fill: #171717" x="125.853913" y="283.686283" transform="rotate(-0 125.853913 283.686283)">Garment &amp; crafts</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="125.853913" y="294.241979" transform="rotate(-0 125.853913 294.241979)">6.6% of jobs</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="125.853913" y="305.095283" transform="rotate(-0 125.853913 305.095283)">0.0% exposed</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: end; fill: #171717" x="125.853913" y="225.985717" transform="rotate(-0 125.853913 225.985717)">Metal &amp; electrical</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="125.853913" y="236.541412" transform="rotate(-0 125.853913 236.541412)">3.6% of jobs</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="125.853913" y="247.394717" transform="rotate(-0 125.853913 247.394717)">0.0% exposed</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: end; fill: #171717" x="145.588669" y="157.12492" transform="rotate(-0 145.588669 157.12492)">Drivers &amp; operators</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="145.588669" y="168.26492" transform="rotate(-0 145.588669 168.26492)">6.7% of jobs</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="145.588669" y="179.14492" transform="rotate(-0 145.588669 179.14492)">0.0% exposed</text>
+   </g>
+   <g id="text_53">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: end; fill: #171717" x="182.677878" y="112.827472" transform="rotate(-0 182.677878 112.827472)">Farm &amp; building labour</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="182.677878" y="124.063722" transform="rotate(-0 182.677878 124.063722)">21.3% of jobs</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="182.677878" y="134.943722" transform="rotate(-0 182.677878 134.943722)">0.0% exposed</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 500; font-size: 8px; font-family: system-ui, sans-serif; text-anchor: end; fill: #171717" x="232.648035" y="84.073438" transform="rotate(-0 232.648035 84.073438)">Cleaners &amp; street work</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="232.648035" y="95.213438" transform="rotate(-0 232.648035 95.213438)">5.8% of jobs</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 6.7px; font-family: ui-monospace, monospace; text-anchor: end; fill: #737373" x="232.648035" y="106.093438" transform="rotate(-0 232.648035 106.093438)">0.0% exposed</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 293.472 252.212932 
+L 303.698882 235.457872 
+L 293.472 263.556 
+L 301.740515 258.782171 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 323.316505 299.123296 
+L 298.727293 277.994799 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+z
+" clip-path="url(#p7f01059de5)" style="fill: #51a2ff; opacity: 0.85"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 293.472 252.212932 
+L 303.698882 235.457872 
+L 293.472 263.556 
+L 301.740515 258.782171 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 323.316505 299.123296 
+L 298.727293 277.994799 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 263.556 
+L 293.472 252.212932 
+" clip-path="url(#p7f01059de5)" style="fill: none; stroke: #155dfc; stroke-width: 1.7; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="text_59">
+   <text style="font-weight: 500; font-size: 9.5px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="8.64" y="15.708594" transform="rotate(-0 8.64 15.708594)">Where Nepal's jobs are, and how many of them are highly exposed</text>
+  </g>
+  <g id="text_60">
+   <text style="font-size: 6.8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #737373" x="8.64" y="28.5248" transform="rotate(-0 8.64 28.5248)">Grey: share of all employed Nepalis in each group. Colour: the part of it in highly exposed occupations (ILO 2025).</text>
+  </g>
+  <g id="text_61">
+   <text style="font-size: 6.8px; font-family: system-ui, sans-serif; fill: #737373" transform="translate(8.64 492.934545)">Exposure = potential task overlap with current generative AI; not adoption, not job loss. NLSS-IV 2022/23, employment-weighted. Radius is proportional</text>
+   <text style="font-size: 6.8px; font-family: system-ui, sans-serif; fill: #737373" transform="translate(8.64 501.869958)">to the square root of the share (rings at 2%, 5%, 10%, 20%). Armed forces and unknown occupations omitted.</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_5">
+    <path d="M 131.09325 473.359875 
+L 140.69325 473.359875 
+L 140.69325 467.759875 
+L 131.09325 467.759875 
+z
+" style="fill: #d4d4d4; stroke: #737373; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="144.69325" y="473.359875" transform="rotate(-0 144.69325 473.359875)">All jobs in the group (% of all employed)</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 300.372 473.359875 
+L 309.972 473.359875 
+L 309.972 467.759875 
+L 300.372 467.759875 
+z
+" style="fill: #51a2ff; stroke: #155dfc; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 8px; font-family: system-ui, sans-serif; text-anchor: start; fill: #171717" x="313.972" y="473.359875" transform="rotate(-0 313.972 473.359875)">Highly exposed jobs (ILO gradient &gt;= 3)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7f01059de5">
+   <path d="M 445.896 263.556 
+C 445.896 243.539864 441.953258 223.718359 434.293414 205.225861 
+C 426.63357 186.733362 415.40559 169.929502 401.252044 155.775956 
+C 387.098498 141.62241 370.294638 130.39443 351.802139 122.734586 
+C 333.309641 115.074742 313.488136 111.132 293.472 111.132 
+C 273.455864 111.132 253.634359 115.074742 235.141861 122.734586 
+C 216.649362 130.39443 199.845502 141.62241 185.691956 155.775956 
+C 171.53841 169.929502 160.31043 186.733362 152.650586 205.225861 
+C 144.990742 223.718359 141.048 243.539864 141.048 263.556 
+C 141.048 283.572136 144.990742 303.393641 152.650586 321.886139 
+C 160.31043 340.378638 171.53841 357.182498 185.691956 371.336044 
+C 199.845502 385.48959 216.649362 396.71757 235.141861 404.377414 
+C 253.634359 412.037258 273.455864 415.98 293.472 415.98 
+C 313.488136 415.98 333.309641 412.037258 351.802139 404.377414 
+C 370.294638 396.71757 387.098498 385.48959 401.252044 371.336044 
+C 415.40559 357.182498 426.63357 340.378638 434.293414 321.886139 
+C 441.953258 303.393641 445.896 283.572136 445.896 263.556 
+M 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+C 293.472 263.556 293.472 263.556 293.472 263.556 
+z
+"/>
+  </clipPath>
+ </defs>
+</svg>
