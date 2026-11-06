@@ -1,9 +1,9 @@
 /* Raushal Shrestha
    One system font. No JavaScript. No effects.
-   #d6befa with white text: contrast ratio about 6:1 (WCAG AA). */
+   #f3eefa with white text: contrast ratio about 6:1 (WCAG AA). */
 
 :root {
-  --bg: #d6befa;
+  --bg: #f3eefa;
   --fg: #302044;
   --measure: none;
 }

@@ -6,12 +6,12 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: posts
-- written: 2026-10-29 17:25:00
+- written: 2026-11-06 16:34:27
 
 ```json
 {
   "barThemeEnabled": true,
-  "barTheme": "dracula",
+  "barTheme": "nord",
   "barThemeOrder": [],
   "barThemeHidden": [
     "modus",
@@ -61,7 +61,7 @@ not the plugin folder — can get everything back.
   "pluginEnabled": true,
   "scopeMode": "include",
   "scopePaths": [],
-  "countExclude": null,
+  "countExclude": [],
   "zenMode": true,
   "fullscreen": false,
   "leftSidebar": true,
@@ -597,7 +597,10 @@ not the plugin folder — can get everything back.
   "historyFilePath": "Word-Smith/ws-history.md",
   "historyPerFile": true,
   "historyCountPasted": false,
-  "historyBaselines": {},
+  "historyBaselines": {
+    "ai-exposure-nepal/ai-exposure-nepal.md": 1883,
+    "this-website/this-website.md": 170
+  },
   "oldInstallerSaid": 112,
   "exportOpts": {
     "format": "docx",
