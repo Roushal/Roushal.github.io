@@ -5,10 +5,18 @@
   <link href="https://roushal.github.io/feed.xml" rel="self"/>
   <link href="https://roushal.github.io/"/>
   <id>https://roushal.github.io/</id>
-  <updated>2026-10-30T00:00:00+05:45</updated>
+  <updated>2026-11-13T00:00:00+05:45</updated>
   <author>
     <name>Raushal Shrestha</name>
   </author>
+  <entry>
+    <title>cities blog</title>
+    <link href="https://roushal.github.io/blog/cities-builtup/"/>
+    <id>https://roushal.github.io/blog/cities-builtup/</id>
+    <published>2026-11-13T00:00:00+05:45</published>
+    <updated>2026-11-13T00:00:00+05:45</updated>
+    <summary>wip</summary>
+  </entry>
   <entry>
     <title>What does AI mean for Nepal?</title>
     <link href="https://roushal.github.io/blog/ai-exposure-nepal/"/>

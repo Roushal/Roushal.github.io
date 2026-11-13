@@ -1,0 +1,112 @@
+<!doctype html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root{--ink:#302044;--bg:#F3EEFA;--sub:.7}
+*{box-sizing:border-box}
+body{margin:0;padding:14px 10px;background:var(--bg);color:var(--ink);font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono",monospace}
+h1{font-size:1.25em;font-weight:700;margin:0 0 .35em;line-height:1.3}
+.sub,.note{opacity:var(--sub);line-height:1.45}
+.sub{margin:0 0 .8em}.note{margin:.8em 0 0;font-size:.85em}
+#fig{position:relative}
+svg{width:100%;height:auto;display:block;overflow:visible}
+svg text{font-family:inherit;fill:var(--ink);paint-order:stroke;stroke:var(--bg);stroke-width:3px;stroke-linejoin:round}
+svg text.num{stroke:none}
+.yr{cursor:pointer;text-decoration:underline;text-underline-offset:4px;opacity:.4;font-weight:700}
+.yr.on{opacity:1}
+.ln{cursor:pointer;transition:opacity .12s}
+#tip{position:absolute;pointer-events:none;background:var(--bg);border:1px solid var(--ink);
+  padding:6px 9px;font-size:.85em;line-height:1.5;opacity:0;transition:opacity .1s;white-space:nowrap;z-index:5}
+#tip b{font-weight:700;display:block}
+</style></head><body>
+<h1>Bharatpur climbed from #12 to #7 while Tulsipur slid from #10 to #15</h1><p class="sub">Rank by area of every cluster that was in the top 10 at any of the five epochs. Kathmandu holds first place in 2022.</p>
+<div id="fig"><svg id="s"></svg><div id="tip"></div></div>
+<p class="note">Numbers in circles are rank by area among all clusters at that epoch; hollow circles on the bottom row ranked below 12. A lineage follows the largest overlapping predecessor; a cluster absorbed by a larger one ends with a hollow marker. Arrows show places gained or lost, 2002 to 2022. * 2013 stands in for 2012. Hover a line to isolate it; click an epoch to focus on its top 12 (click again to clear).</p>
+<script>
+const D={"years": ["2002", "2007", "2013*", "2017", "2022"], "cap": 12, "items": [{"id": 0, "name": "Pokhara", "hi": 0, "rank": [3, 4, 4, 3, 2], "km2": [2.637265264897184, 3.0059108026042356, 4.275062909675464, 5.069164280235253, 11.996297102277204], "arrow": ""}, {"id": 1, "name": "Tulsipur", "hi": 1, "rank": [10, 11, 12, 12, 15], "km2": [0.9791424505803601, 1.1068589339158323, 1.1565277339949502, 1.6106253010832843, 2.213744305931321], "arrow": "\u21935"}, {"id": 2, "name": "Nepalgunj", "hi": 0, "rank": [9, 5, 8, 6, 6], "km2": [1.5193685057466098, 1.9382617145142162, 2.257757705568278, 3.1736423846052215, 5.069267240369649], "arrow": ""}, {"id": 3, "name": "Kathmandu", "hi": 0, "rank": [1, 1, 1, 1, 1], "km2": [60.7696831071987, 70.52106925474138, 88.31007028789278, 107.13208525453224, 137.61482269289738], "arrow": ""}, {"id": 4, "name": "Butwal", "hi": 0, "rank": [4, 3, 2, 2, 4], "km2": [2.27251980620204, 3.6475684513513014, 4.488309576881447, 5.507061423546189, 7.1671182698452505], "arrow": ""}, {"id": 5, "name": "Bharatpur", "hi": 1, "rank": [12, 12, 9, 10, 7], "km2": [0.9047430342411577, 1.018728297684851, 1.7739136893000147, 2.0446331285178156, 4.901752548085118], "arrow": "\u21915"}, {"id": 6, "name": "Bhaktapur", "hi": 0, "rank": [7, 6, null, null, null], "km2": [1.6673660292459684, 1.8953796495052182, null, null, null], "arrow": ""}, {"id": 7, "name": "Siddharthanagar", "hi": 0, "rank": [11, 10, 10, 9, 9], "km2": [0.9776342779392412, 1.1703095959899097, 1.3844055853957293, 2.5261418489034306, 3.5607659005022962], "arrow": ""}, {"id": 8, "name": "Birgunj", "hi": 0, "rank": [2, 2, 3, 4, 3], "km2": [3.5696251576590177, 4.18603230913121, 4.451254009980273, 5.0676654881587915, 8.915805442192694], "arrow": ""}, {"id": 9, "name": "Dharan", "hi": 0, "rank": [6, 8, 7, 8, 10], "km2": [1.7377413076254802, 1.8095483589944064, 2.297821355172492, 2.599385619062905, 3.4395218152156857], "arrow": ""}, {"id": 10, "name": "Janakpur", "hi": 0, "rank": [8, 9, 5, 7, 8], "km2": [1.5593401571875678, 1.65993871683254, 2.364119179672935, 2.7880975816372944, 4.44809725201735], "arrow": ""}, {"id": 11, "name": "Biratnagar", "hi": 0, "rank": [5, 7, 6, 5, 5], "km2": [1.7935437423352372, 1.8439602840491276, 2.3265699737250713, 3.5798764744303897, 6.30248805302346], "arrow": ""}]}, cap=D.cap, nw=D.years.length, NS="http://www.w3.org/2000/svg";
+const fig=document.getElementById("fig"), svg=document.getElementById("s"), tip=document.getElementById("tip");
+let focus=null, hover=null, groups={};
+const clamp=(v,a,b)=>Math.min(b,Math.max(a,v));
+const mk=(t,a={},p=svg,txt)=>{const n=document.createElementNS(NS,t);
+  for(const k in a)n.setAttribute(k,a[k]); if(txt!=null)n.textContent=txt; p.appendChild(n); return n;};
+const km=v=>v>=100?v.toFixed(0):v.toFixed(1);
+
+function opac(e){
+  if(hover!==null) return e.id===hover?1:.22;
+  if(focus!==null){const r=e.rank[focus]; return r!==null&&r<=cap?1:.22;}
+  return e.hi?1:.6;
+}
+function refresh(){
+  for(const e of D.items) groups[e.id].style.opacity=opac(e);
+  document.querySelectorAll(".yr").forEach(t=>t.classList.toggle("on",focus===null||+t.dataset.i===focus));
+}
+function showTip(e,ev){
+  tip.innerHTML="<b>"+e.name+(e.arrow?"  "+e.arrow:"")+"</b>"+D.years.map((y,i)=>e.rank[i]===null?"":
+    `${y}&nbsp; #${e.rank[i]}&nbsp; ${km(e.km2[i])} km²`).filter(Boolean).join("<br>");
+  const r=fig.getBoundingClientRect(); let x=ev.clientX-r.left+14, y=ev.clientY-r.top+14;
+  tip.style.opacity=1; x=Math.min(x,r.width-tip.offsetWidth-4); tip.style.left=x+"px"; tip.style.top=y+"px";
+}
+
+function draw(){
+  const W=Math.max(320,fig.clientWidth), fs=clamp(W/45,9,13);
+  const rowH=fs*2.4, R=fs*.95, cw=fs*.6, top=fs*3.2, H=top+(cap+1)*rowH+fs*1.5;
+  const first=e=>e.rank.findIndex(r=>r!==null), last=e=>nw-1-[...e.rank].reverse().findIndex(r=>r!==null);
+  const inL=D.items.filter(e=>e.rank[0]!==null&&e.rank[0]<=cap).map(e=>e.name.length+(e.arrow?4:0));
+  const inR=D.items.filter(e=>last(e)<=nw-1&&e.rank[last(e)]<=cap).map(e=>e.name.length+(e.arrow?4:0));
+  const lm=Math.min(W*.30,R+8+Math.max(16,...inL)*cw), rm=Math.min(W*.34,R+8+Math.max(16,...inR)*cw);
+  svg.setAttribute("viewBox",`0 0 ${W} ${H}`); svg.innerHTML=""; groups={};
+  const X=i=>lm+(nw===1?0:i*(W-lm-rm)/(nw-1)), Y=r=>top+(Math.min(r,cap+1)-1)*rowH;
+  const maxc=Math.floor((lm-R-8)/cw), maxr=Math.floor((rm-R-8)/cw);
+  const cut=(s,n)=>s.length>n?s.slice(0,Math.max(1,n-1))+"…":s;
+
+  for(let i=0;i<nw;i++){
+    mk("line",{x1:X(i),x2:X(i),y1:top-fs*.9,y2:Y(cap+1)+fs,stroke:"var(--ink)","stroke-opacity":.12});
+    const t=mk("text",{x:X(i),y:top-fs*1.5,"text-anchor":"middle","font-size":fs,class:"yr"},svg,D.years[i]);
+    t.dataset.i=i; t.onclick=()=>{focus=focus===i?null:i;refresh();};
+  }
+  mk("line",{x1:X(0),x2:X(nw-1),y1:Y(cap+1)-rowH/2,y2:Y(cap+1)-rowH/2,stroke:"var(--ink)","stroke-opacity":.12,"stroke-dasharray":"3 3"});
+
+  const pin={0:[],[nw-1]:[]};
+  const order=[...D.items].sort((a,b)=>a.hi-b.hi);
+  for(const e of order){
+    const g=mk("g",{class:"ln"}); groups[e.id]=g;
+    const pts=[]; e.rank.forEach((r,i)=>{if(r!==null)pts.push([i,r]);});
+    const sw=e.hi?2.6:1.7;
+    for(let k=0;k<pts.length-1;k++){
+      const [i0,a]=pts[k],[i1,b]=pts[k+1]; if(i1-i0!==1)continue;
+      const x0=X(i0),x1=X(i1),y0=Y(a),y1=Y(b),xm=(x0+x1)/2;
+      const d=`M${x0},${y0}C${xm},${y0} ${xm},${y1} ${x1},${y1}`;
+      mk("path",{d,fill:"none",stroke:"var(--ink)","stroke-width":sw,"stroke-linecap":"round"},g);
+      mk("path",{d,fill:"none",stroke:"transparent","stroke-width":Math.max(14,fs*1.4)},g);
+    }
+    pts.forEach(([i,r],k)=>{
+      const ends=(k===pts.length-1&&i<nw-1), hollow=r>cap||ends;
+      mk("circle",{cx:X(i),cy:Y(r),r:R,fill:hollow?"var(--bg)":"var(--ink)",stroke:"var(--ink)","stroke-width":1.4},g);
+      if(r<=cap) mk("text",{x:X(i),y:Y(r),"text-anchor":"middle","dominant-baseline":"central",class:"num",
+        "font-size":fs*.85,"font-weight":700,style:"fill:"+(hollow?"var(--ink)":"var(--bg)")},g,r);
+    });
+    const [fi,fr]=pts[0],[li,lr]=pts[pts.length-1], w=e.hi||lr<=3?700:500;
+    const lab=e.name+(e.arrow?"  "+e.arrow:"");
+    if(fi===0){ if(fr>cap)pin[0].push(e); else
+      mk("text",{x:X(0)-R-6,y:Y(fr),"text-anchor":"end","dominant-baseline":"central","font-size":fs,"font-weight":w},g,cut(lab,maxc)); }
+    if(li===nw-1){ if(lr>cap)pin[nw-1].push(e); else
+      mk("text",{x:X(li)+R+6,y:Y(lr),"dominant-baseline":"central","font-size":fs,"font-weight":w},g,cut(lab,maxr)); }
+    else if(fi>0&&lr<=cap)                                              // absorbed lineages that started later: named at their end
+      mk("text",{x:X(li)+R+6,y:Y(lr),"dominant-baseline":"central","font-size":fs*.9,opacity:.6},g,cut(e.name,maxr));
+    g.onmousemove=ev=>{hover=e.id;refresh();showTip(e,ev);};
+    g.onmouseleave=()=>{hover=null;tip.style.opacity=0;refresh();};
+  }
+  for(const k of [0,nw-1]){                                              // off-chart summaries at the outer epochs
+    const L=pin[k]; if(!L.length)continue;
+    const left=k===0, y=Y(cap+1), a=L.map(e=>e.km2[k]);
+    const t1=L.length>1?L.length+" other clusters":cut(L[0].name,left?maxc:maxr);
+    const t2=L.length>1?km(Math.min(...a))+"–"+km(Math.max(...a))+" km²":km(a[0])+" km²";
+    const x=X(k)+(left?-R-6:R+6);
+    const t=mk("text",{x,y:y-fs*.55,"text-anchor":left?"end":"start","font-size":fs,"font-weight":500});
+    mk("tspan",{x},t,t1); mk("tspan",{x,dy:fs*1.2},t,t2); t.style.opacity=.7;
+  }
+  refresh();
+}
+new ResizeObserver(draw).observe(fig); draw();
+const post=()=>parent.postMessage({type:"fig-height",h:document.body.offsetHeight},"*");
+new ResizeObserver(post).observe(document.body); post();
+</script></body></html>
