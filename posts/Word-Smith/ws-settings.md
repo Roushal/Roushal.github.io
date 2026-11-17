@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: posts
-- written: 2026-11-06 16:34:27
+- written: 2026-11-17 17:14:02
 
 ```json
 {
@@ -249,16 +249,16 @@ not the plugin folder — can get everything back.
   "syntaxStyle": "text",
   "checksEnabled": false,
   "checkStyle": "line",
-  "checkFiller": true,
+  "checkFiller": false,
   "checkFillerSoft": false,
   "checkFillerColor": "#8a7fd1",
-  "checkPassive": true,
+  "checkPassive": false,
   "checkPassiveColor": "#c2544d",
-  "checkIllusion": true,
+  "checkIllusion": false,
   "checkIllusionColor": "#d98cc4",
-  "checkMisused": true,
+  "checkMisused": false,
   "checkMisusedColor": "#e0913a",
-  "checkPronoun": true,
+  "checkPronoun": false,
   "checkPronounColor": "#4f9dde",
   "checkCliche": false,
   "checkClicheColor": "#e0b90f",
@@ -282,7 +282,7 @@ not the plugin folder — can get everything back.
   "checkRhythmLongWords": 25,
   "checkRhythmVeryLongWords": 40,
   "checkRhythmShortWords": 8,
-  "checkRepetition": true,
+  "checkRepetition": false,
   "checkRepetitionColor": "#4caf7d",
   "repetitionWindow": 50,
   "repetitionMinLength": 5,
@@ -599,15 +599,16 @@ not the plugin folder — can get everything back.
   "historyCountPasted": false,
   "historyBaselines": {
     "ai-exposure-nepal/ai-exposure-nepal.md": 1883,
-    "this-website/this-website.md": 170
+    "this-website/this-website.md": 170,
+    "cities-builtup/cities-builtup.md": 1321
   },
   "oldInstallerSaid": 112,
   "exportOpts": {
     "format": "docx",
-    "titlePage": true,
+    "titlePage": false,
     "sectionTitles": false,
     "pageBreaks": true,
-    "runningHeaderOn": true,
+    "runningHeaderOn": false,
     "author": "",
     "divider": "#",
     "a4": false,

@@ -5,6 +5,15 @@ untick freely, reorder the lines, or change a target; the plugin reads
 it back. Everything between the markers is rewritten, so keep your own
 notes outside them.
 
+### 
+
+- [ ] ai-exposure-nepal/ai-exposure-nepal.md
+- [x] cities-builtup/cities-builtup.md
+- [ ] this-website/this-website.md
+- [ ] Word-Smith/ws-history.md
+- [ ] Word-Smith/ws-settings.md
+- [ ] Word-Smith/ws-structure.md
+
 ### order: ai-exposure-nepal
 
 - ai-exposure-nepal/ai-exposure-nepal.md
