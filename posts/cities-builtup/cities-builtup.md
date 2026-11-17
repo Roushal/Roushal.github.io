@@ -1,7 +1,7 @@
 ---
-title: cities blog
+title: The case for more than one Kathmandu
 date: 2026-11-13
-description: wip
+description: Although concentration makes cities productive through proximity, it also leaves economies vulnerable to shocks.
 draft: false
 ---
 <iframe src="map3d_ntl_2022.html" title="Nepal nighttime radiance, VIIRS 2022"
