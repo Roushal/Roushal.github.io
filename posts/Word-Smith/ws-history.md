@@ -5,11 +5,11 @@ finds it by the markers below, anywhere in the vault. Counts only, never
 your text. Everything between the markers is rewritten; write what you
 like outside them.
 
-### 2026 — 5 days, +1,345 net
+### 2026 — 5 days, +1,344 net
 
 | Date | Added | Deleted | Net |
 | --- | ---: | ---: | ---: |
-| 2026-11-17 | 266 | 180 | 86 |
+| 2026-11-17 | 266 | 181 | 85 |
 | 2026-11-16 | 23 | 277 | -254 |
 | 2026-11-13 | 1376 | 149 | 1227 |
 | 2026-10-30 | 16 | 29 | -13 |
@@ -19,7 +19,7 @@ like outside them.
 
 | Date | Note | Added | Deleted | Net |
 | --- | --- | ---: | ---: | ---: |
-| 2026-11-17 | cities-builtup/cities-builtup.md | 266 | 180 | 86 |
+| 2026-11-17 | cities-builtup/cities-builtup.md | 266 | 181 | 85 |
 | 2026-11-16 | cities-builtup/cities-builtup.md | 23 | 277 | -254 |
 | 2026-11-13 | cities-builtup/cities-builtup.md | 1376 | 149 | 1227 |
 | 2026-10-30 | ai-exposure-nepal/ai-exposure-nepal.md | 13 | 3 | 10 |
