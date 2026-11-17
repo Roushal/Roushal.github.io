@@ -104,6 +104,7 @@ The ranks in terms of absolute area, however, has been remarkably sticky:
 
 
 Footnotes:
+
 [^1]: If you're familiar with graph theory, each cluster is a connected component--megapixels that exceed the threshold form the nodes of the component and their edges are defined by queen contiguity.
 
 [^2]: Estimates of the valley agglomeration vary, with 2.9 million cited in some sources and around 4 million in others. For Pokhara, CBS census figure is 513,504 in 2021. Some listings show about 600,000 instead. That puts the ratio to roughly 5.5-8x. 
