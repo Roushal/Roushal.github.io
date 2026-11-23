@@ -4,11 +4,8 @@ date: 2026-11-13
 description: Although concentration makes cities productive through proximity, it also leaves economies vulnerable to shocks.
 draft: false
 ---
-<iframe src="map3d_ntl_2022.html" title="Nepal nighttime radiance, VIIRS 2022"
-        style="width:100%;max-width:638px;height:500px;border:0;display:block" loading="lazy"></iframe>
-
-*fig 1: Nightime radiance of Nepal, 2022*
-
+<iframe src="map3d_ntl_2022 (2).html" scrolling="no"
+        style="width:100%;height:500px;border:0;display:block"></iframe>
 Every day satellites orbit the earth and take a picture at 1:30 a.m. These satellites map out where it is lit every night. Economists have been using this data as a reliable proxy for economic activity--especially when granular data is scarce. One striking fact is that most economic activity seems to concentrate in a relatively small number of places. Why does is cluster in certain places? Is this concentration desirable? Even if it is, why might we still want decentralization? I explore these questions through the geography of Nepal's cities. 
 
 <iframe src="nepal_top10_map.html" 
@@ -85,22 +82,21 @@ This chart shows rank changes in growth rate across the successive epochs. These
 <script>
 addEventListener("message", e => {
   if (!e.data || e.data.type !== "fig-height") return;
-  document.querySelectorAll("iframe[data-fig]").forEach(f => {
+  for (const f of document.querySelectorAll("iframe"))
     if (f.contentWindow === e.source) f.style.height = e.data.h + "px";
-  });
 });
 </script>
 
-<iframe src="fig7_bump_growth.html" title="Fastest-growing clusters by period"
-        data-fig style="width:100%; max-width:900px; height:600px; border:0; display:block;"
-        sandbox="allow-scripts" loading="lazy"></iframe>
+
+
+<iframe src="fig7_bump_growth.html" scrolling="no"
+        style="width:100%;height:700px;border:0;display:block"></iframe>
         
 
 The ranks in terms of absolute area, however, has been remarkably sticky: 
 
-<iframe src="fig4_bump_rank.html"   title="Rank of the largest clusters, 2002-2022"
-        data-fig style="width:100%; max-width:900px; height:800px; border:0; display:block;"
-        sandbox="allow-scripts" loading="lazy"></iframe>
+<iframe src="fig4_bump_rank.html" scrolling="no"
+        style="width:100%;height:700px;border:0;display:block"></iframe>
 
 
 Footnotes:

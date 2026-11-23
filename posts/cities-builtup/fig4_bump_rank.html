@@ -20,7 +20,7 @@ svg text.num{stroke:none}
 </style></head><body>
 <h1>Bharatpur climbed from #12 to #7 while Tulsipur slid from #10 to #15</h1><p class="sub">Rank by area of every cluster that was in the top 10 at any of the five epochs. Kathmandu holds first place in 2022.</p>
 <div id="fig"><svg id="s"></svg><div id="tip"></div></div>
-<p class="note">Numbers in circles are rank by area among all clusters at that epoch; hollow circles on the bottom row ranked below 12. A lineage follows the largest overlapping predecessor; a cluster absorbed by a larger one ends with a hollow marker. Arrows show places gained or lost, 2002 to 2022. * 2013 stands in for 2012. Hover a line to isolate it; click an epoch to focus on its top 12 (click again to clear).</p>
+<p class="note">Numbers in circles are rank by area among all clusters at that epoch; hollow circles on the bottom row ranked below 12. A lineage follows the largest overlapping predecessor; a cluster absorbed by a larger one ends with a hollow marker. * 2013 stands in for 2012. Hover a line to isolate it; click an epoch to focus on its top 12 (click again to clear).</p>
 <script>
 const D={"years": ["2002", "2007", "2013*", "2017", "2022"], "cap": 12, "items": [{"id": 0, "name": "Pokhara", "hi": 0, "rank": [3, 4, 4, 3, 2], "km2": [2.637265264897184, 3.0059108026042356, 4.275062909675464, 5.069164280235253, 11.996297102277204], "arrow": ""}, {"id": 1, "name": "Tulsipur", "hi": 1, "rank": [10, 11, 12, 12, 15], "km2": [0.9791424505803601, 1.1068589339158323, 1.1565277339949502, 1.6106253010832843, 2.213744305931321], "arrow": "\u21935"}, {"id": 2, "name": "Nepalgunj", "hi": 0, "rank": [9, 5, 8, 6, 6], "km2": [1.5193685057466098, 1.9382617145142162, 2.257757705568278, 3.1736423846052215, 5.069267240369649], "arrow": ""}, {"id": 3, "name": "Kathmandu", "hi": 0, "rank": [1, 1, 1, 1, 1], "km2": [60.7696831071987, 70.52106925474138, 88.31007028789278, 107.13208525453224, 137.61482269289738], "arrow": ""}, {"id": 4, "name": "Butwal", "hi": 0, "rank": [4, 3, 2, 2, 4], "km2": [2.27251980620204, 3.6475684513513014, 4.488309576881447, 5.507061423546189, 7.1671182698452505], "arrow": ""}, {"id": 5, "name": "Bharatpur", "hi": 1, "rank": [12, 12, 9, 10, 7], "km2": [0.9047430342411577, 1.018728297684851, 1.7739136893000147, 2.0446331285178156, 4.901752548085118], "arrow": "\u21915"}, {"id": 6, "name": "Bhaktapur", "hi": 0, "rank": [7, 6, null, null, null], "km2": [1.6673660292459684, 1.8953796495052182, null, null, null], "arrow": ""}, {"id": 7, "name": "Siddharthanagar", "hi": 0, "rank": [11, 10, 10, 9, 9], "km2": [0.9776342779392412, 1.1703095959899097, 1.3844055853957293, 2.5261418489034306, 3.5607659005022962], "arrow": ""}, {"id": 8, "name": "Birgunj", "hi": 0, "rank": [2, 2, 3, 4, 3], "km2": [3.5696251576590177, 4.18603230913121, 4.451254009980273, 5.0676654881587915, 8.915805442192694], "arrow": ""}, {"id": 9, "name": "Dharan", "hi": 0, "rank": [6, 8, 7, 8, 10], "km2": [1.7377413076254802, 1.8095483589944064, 2.297821355172492, 2.599385619062905, 3.4395218152156857], "arrow": ""}, {"id": 10, "name": "Janakpur", "hi": 0, "rank": [8, 9, 5, 7, 8], "km2": [1.5593401571875678, 1.65993871683254, 2.364119179672935, 2.7880975816372944, 4.44809725201735], "arrow": ""}, {"id": 11, "name": "Biratnagar", "hi": 0, "rank": [5, 7, 6, 5, 5], "km2": [1.7935437423352372, 1.8439602840491276, 2.3265699737250713, 3.5798764744303897, 6.30248805302346], "arrow": ""}]}, cap=D.cap, nw=D.years.length, NS="http://www.w3.org/2000/svg";
 const fig=document.getElementById("fig"), svg=document.getElementById("s"), tip=document.getElementById("tip");
@@ -49,13 +49,21 @@ function showTip(e,ev){
 function draw(){
   const W=Math.max(320,fig.clientWidth), fs=clamp(W/45,9,13);
   const rowH=fs*2.4, R=fs*.95, cw=fs*.6, top=fs*3.2, H=top+(cap+1)*rowH+fs*1.5;
-  const first=e=>e.rank.findIndex(r=>r!==null), last=e=>nw-1-[...e.rank].reverse().findIndex(r=>r!==null);
-  const inL=D.items.filter(e=>e.rank[0]!==null&&e.rank[0]<=cap).map(e=>e.name.length+(e.arrow?4:0));
-  const inR=D.items.filter(e=>last(e)<=nw-1&&e.rank[last(e)]<=cap).map(e=>e.name.length+(e.arrow?4:0));
-  const lm=Math.min(W*.30,R+8+Math.max(16,...inL)*cw), rm=Math.min(W*.34,R+8+Math.max(16,...inR)*cw);
   svg.setAttribute("viewBox",`0 0 ${W} ${H}`); svg.innerHTML=""; groups={};
+
+  // margins = measured width of the widest label on each side, so the chart fills the full column
+  const meas=s=>{const t=mk("text",{"font-size":fs,"font-weight":700,visibility:"hidden"},svg,s);
+    const w=t.getComputedTextLength()||s.length*cw; t.remove(); return w;};
+  const lab=e=>e.name+(e.arrow?"  "+e.arrow:"");
+  const pinTxt=k=>{const L=D.items.filter(e=>e.rank[k]!==null&&e.rank[k]>cap); if(!L.length)return [];
+    const a=L.map(e=>e.km2[k]);
+    return L.length>1?[L.length+" other clusters",km(Math.min(...a))+"–"+km(Math.max(...a))+" km²"]:[L[0].name,km(a[0])+" km²"];};
+  const side=k=>Math.max(0,...D.items.filter(e=>e.rank[k]!==null&&e.rank[k]<=cap).map(e=>meas(lab(e))),
+                          ...pinTxt(k).map(meas));
+  const lm=Math.min(W*.34, R+8+side(0)+2),
+        rm=Math.min(W*.40, R+8+side(nw-1)+2);
   const X=i=>lm+(nw===1?0:i*(W-lm-rm)/(nw-1)), Y=r=>top+(Math.min(r,cap+1)-1)*rowH;
-  const maxc=Math.floor((lm-R-8)/cw), maxr=Math.floor((rm-R-8)/cw);
+  const maxc=Math.floor((lm-R-8)/cw)+2, maxr=Math.floor((rm-R-8)/cw)+2;
   const cut=(s,n)=>s.length>n?s.slice(0,Math.max(1,n-1))+"…":s;
 
   for(let i=0;i<nw;i++){
