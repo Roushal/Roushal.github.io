@@ -35,7 +35,7 @@ We cannot reason whether this is problematic or desirable through size alone. Ma
 | 2022 | 11:1  | Pokhara                |
 The gap remained between 17 and 20 times until 2017, then fell to 11 times as Pokhara moved into second place[^3]. This has been a function of other cities pacing ahead in growth. In the most recent epoch(2017-22), Kathmandu was the slowest growing cluster[^4].
 
-![[fig10_growth_small_size.svg|570]]
+![[fig10_growth_small_size (1).svg|575]]
 
 Over the two decades, Kathmandu has also grown slower than the national average. The median annual growth rate across the 17 clusters was 6.7%, compared with 5.1% for Nepal's total built up area. Itahari grew the fastest (9.5%). Kathmandu's rate (4.2%) ranks 3rd from the last.
 
@@ -43,7 +43,7 @@ Over the two decades, Kathmandu has also grown slower than the national average.
 
 But because Kathmandu starts from a huge base its lower percentage rate still means a lot more new area. It added ~77 $km^2$ compared to 9.4$km^2$ added by Pokhara over 20 years. Also it added the most new area in the recent epoch, where it ranks last in growth rate .Check out the figures below: 
 
-![618](https://roushal.github.io/blog/cities-builtup/fig11_three_cities.svg)
+![[fig11_three_cities.svg|700]]
 
 The story, then, is that Kathmandu's primacy is shrinking as a ratio but still growing in terms of actual land. A natural question then is: Why does economic activity concentrate? why do these clusters form?
 

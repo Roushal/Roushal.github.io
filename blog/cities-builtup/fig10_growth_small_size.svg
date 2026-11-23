@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg style="width:100%;height:auto;display:block" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 432 347.62" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="223.92pt" viewBox="0 0 792 223.92" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-13T07:20:12.695591</dc:date>
+    <dc:date>2026-11-13T06:07:24.438518</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -21,52 +21,42 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 347.62 
-L 432 347.62 
-L 432 0 
+   <path d="M 0 223.92 
+L 792 223.92 
+L 792 0 
 L 0 0 
 z
 " style="fill: #f3eefa"/>
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 18 125.696522 
-L 129.235955 125.696522 
-L 129.235955 78.74 
-L 18 78.74 
+    <path d="M 23.76 112.447059 
+L 159.614015 112.447059 
+L 159.614015 68.4 
+L 23.76 68.4 
 z
 " style="fill: #f3eefa"/>
    </g>
    <g id="line2d_1">
-    <path d="M 18 125.696522 
-L 129.235955 125.696522 
-" clip-path="url(#pd8b5320765)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+    <path d="M 23.76 112.447059 
+L 159.614015 112.447059 
+" clip-path="url(#p740ea30986)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
    <g id="line2d_2">
-    <path d="M 20.780899 118.94781 
-L 48.589888 117.162852 
-L 76.398876 114.641852 
-L 104.207865 114.224856 
-" clip-path="url(#pd8b5320765)" style="fill: none; stroke: #302044; stroke-opacity: 0.22; stroke-width: 1.6; stroke-linecap: round"/>
-   </g>
-   <g id="line2d_3">
-    <path d="M 20.780899 119.773984 
-L 48.589888 112.190761 
-L 76.398876 115.976161 
-L 104.207865 83.697131 
-" clip-path="url(#pd8b5320765)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 27.335106 106.116502 
+L 63.086162 104.442142 
+L 98.837219 102.077345 
+L 134.588275 101.686186 
+" clip-path="url(#p740ea30986)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_1">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="108.207865" y="86.208162" transform="rotate(-0 108.207865 86.208162)">18.8</text>
-   </g>
-   <g id="text_2">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="18" y="73.090963" transform="rotate(-0 18 73.090963)">2  Pokhara</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="23.76" y="64.013975" transform="rotate(-0 23.76 64.013975)">1  Kathmandu</text>
    </g>
    <g id="PathCollection_1">
     <defs>
-     <path id="ma00ad82b50" d="M 0 2 
+     <path id="me280661ba1" d="M 0 2 
 C 0.530406 2 1.03916 1.789267 1.414214 1.414214 
 C 1.789267 1.03916 2 0.530406 2 0 
 C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214 
@@ -78,384 +68,430 @@ C -1.03916 1.789267 -0.530406 2 0 2
 z
 " style="stroke: #302044"/>
     </defs>
-    <g clip-path="url(#pd8b5320765)">
-     <use xlink:href="#ma00ad82b50" x="104.207865" y="83.697131" style="fill: #302044; stroke: #302044"/>
+    <g clip-path="url(#p740ea30986)">
+     <use xlink:href="#me280661ba1" x="134.588275" y="101.686186" style="fill: #302044; stroke: #302044"/>
     </g>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="138.588275" y="104.293796" transform="rotate(-0 138.588275 104.293796)">5.1</text>
    </g>
   </g>
   <g id="axes_2">
    <g id="patch_3">
-    <path d="M 160.382022 125.696522 
-L 271.617978 125.696522 
-L 271.617978 78.74 
-L 160.382022 78.74 
+    <path d="M 175.916496 112.447059 
+L 311.770511 112.447059 
+L 311.770511 68.4 
+L 175.916496 68.4 
 z
 " style="fill: #f3eefa"/>
    </g>
-   <g id="line2d_4">
-    <path d="M 160.382022 125.696522 
-L 271.617978 125.696522 
-" clip-path="url(#p5e63951ee1)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+   <g id="line2d_3">
+    <path d="M 175.916496 112.447059 
+L 311.770511 112.447059 
+" clip-path="url(#pec3984e5b8)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="matplotlib.axis_3"/>
    <g id="matplotlib.axis_4"/>
-   <g id="line2d_5">
-    <path d="M 163.162921 118.94781 
-L 190.97191 117.162852 
-L 218.780899 114.641852 
-L 246.589888 114.224856 
-" clip-path="url(#p5e63951ee1)" style="fill: none; stroke: #302044; stroke-opacity: 0.22; stroke-width: 1.6; stroke-linecap: round"/>
+   <g id="line2d_4">
+    <path d="M 179.491602 106.116502 
+L 215.242658 104.442142 
+L 250.993715 102.077345 
+L 286.744771 101.686186 
+" clip-path="url(#pec3984e5b8)" style="fill: none; stroke: #302044; stroke-opacity: 0.35; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
-   <g id="line2d_6">
-    <path d="M 163.162921 118.465306 
-L 190.97191 123.397616 
-L 218.780899 118.334961 
-L 246.589888 98.975588 
-" clip-path="url(#p5e63951ee1)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+   <g id="line2d_5">
+    <path d="M 179.491602 106.891486 
+L 215.242658 99.778126 
+L 250.993715 103.32898 
+L 286.744771 73.049983 
+" clip-path="url(#pec3984e5b8)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_3">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="250.589888" y="101.486619" transform="rotate(-0 250.589888 101.486619)">12.0</text>
-   </g>
-   <g id="text_4">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="160.382022" y="73.090963" transform="rotate(-0 160.382022 73.090963)">3  Birgunj</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="175.916496" y="64.013975" transform="rotate(-0 175.916496 64.013975)">2  Pokhara</text>
    </g>
    <g id="PathCollection_2">
-    <g clip-path="url(#p5e63951ee1)">
-     <use xlink:href="#ma00ad82b50" x="246.589888" y="98.975588" style="fill: #302044; stroke: #302044"/>
+    <g clip-path="url(#pec3984e5b8)">
+     <use xlink:href="#me280661ba1" x="286.744771" y="73.049983" style="fill: #302044; stroke: #302044"/>
     </g>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="290.744771" y="75.657592" transform="rotate(-0 290.744771 75.657592)">18.8</text>
    </g>
   </g>
   <g id="axes_3">
    <g id="patch_4">
-    <path d="M 302.764045 125.696522 
-L 414 125.696522 
-L 414 78.74 
-L 302.764045 78.74 
+    <path d="M 328.072993 112.447059 
+L 463.927007 112.447059 
+L 463.927007 68.4 
+L 328.072993 68.4 
 z
 " style="fill: #f3eefa"/>
    </g>
-   <g id="line2d_7">
-    <path d="M 302.764045 125.696522 
-L 414 125.696522 
-" clip-path="url(#p2f1b075974)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+   <g id="line2d_6">
+    <path d="M 328.072993 112.447059 
+L 463.927007 112.447059 
+" clip-path="url(#pc59cc4ee16)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="matplotlib.axis_5"/>
    <g id="matplotlib.axis_6"/>
-   <g id="line2d_8">
-    <path d="M 305.544944 118.94781 
-L 333.353933 117.162852 
-L 361.162921 114.641852 
-L 388.97191 114.224856 
-" clip-path="url(#p2f1b075974)" style="fill: none; stroke: #302044; stroke-opacity: 0.22; stroke-width: 1.6; stroke-linecap: round"/>
+   <g id="line2d_7">
+    <path d="M 331.648098 106.116502 
+L 367.399155 104.442142 
+L 403.150211 102.077345 
+L 438.901268 101.686186 
+" clip-path="url(#pc59cc4ee16)" style="fill: none; stroke: #302044; stroke-opacity: 0.35; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
-   <g id="line2d_9">
-    <path d="M 305.544944 103.524303 
-L 333.353933 117.839338 
-L 361.162921 113.975889 
-L 388.97191 113.609844 
-" clip-path="url(#p2f1b075974)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+   <g id="line2d_8">
+    <path d="M 331.648098 105.663895 
+L 367.399155 110.290595 
+L 403.150211 105.541626 
+L 438.901268 87.381775 
+" clip-path="url(#pc59cc4ee16)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_5">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="392.97191" y="116.120875" transform="rotate(-0 392.97191 116.120875)">5.4</text>
-   </g>
-   <g id="text_6">
-    <text style="font-weight: 500; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="302.764045" y="73.090963" transform="rotate(-0 302.764045 73.090963)">4  Butwal</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="328.072993" y="64.013975" transform="rotate(-0 328.072993 64.013975)">3  Birgunj</text>
    </g>
    <g id="PathCollection_3">
-    <g clip-path="url(#p2f1b075974)">
-     <use xlink:href="#ma00ad82b50" x="388.97191" y="113.609844" style="fill: #302044; stroke: #302044"/>
+    <g clip-path="url(#pc59cc4ee16)">
+     <use xlink:href="#me280661ba1" x="438.901268" y="87.381775" style="fill: #302044; stroke: #302044"/>
     </g>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="442.901268" y="89.989385" transform="rotate(-0 442.901268 89.989385)">12.0</text>
    </g>
   </g>
   <g id="axes_4">
    <g id="patch_5">
-    <path d="M 18 210.218261 
-L 129.235955 210.218261 
-L 129.235955 163.261739 
-L 18 163.261739 
+    <path d="M 480.229489 112.447059 
+L 616.083504 112.447059 
+L 616.083504 68.4 
+L 480.229489 68.4 
 z
 " style="fill: #f3eefa"/>
    </g>
-   <g id="line2d_10">
-    <path d="M 18 210.218261 
-L 129.235955 210.218261 
-" clip-path="url(#p65849b3caa)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+   <g id="line2d_9">
+    <path d="M 480.229489 112.447059 
+L 616.083504 112.447059 
+" clip-path="url(#p9aac434693)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="matplotlib.axis_7"/>
    <g id="matplotlib.axis_8"/>
-   <g id="line2d_11">
-    <path d="M 20.780899 203.469549 
-L 48.589888 201.684591 
-L 76.398876 199.163591 
-L 104.207865 198.746595 
-" clip-path="url(#p65849b3caa)" style="fill: none; stroke: #302044; stroke-opacity: 0.22; stroke-width: 1.6; stroke-linecap: round"/>
+   <g id="line2d_10">
+    <path d="M 483.804595 106.116502 
+L 519.555651 104.442142 
+L 555.306708 102.077345 
+L 591.057764 101.686186 
+" clip-path="url(#p9aac434693)" style="fill: none; stroke: #302044; stroke-opacity: 0.35; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
-   <g id="line2d_12">
-    <path d="M 20.780899 208.976292 
-L 48.589888 201.393088 
-L 76.398876 184.808362 
-L 104.207865 183.463769 
-" clip-path="url(#p65849b3caa)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+   <g id="line2d_11">
+    <path d="M 483.804595 91.648648 
+L 519.555651 105.076713 
+L 555.306708 101.452646 
+L 591.057764 101.109281 
+" clip-path="url(#p9aac434693)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_7">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="108.207865" y="185.9748" transform="rotate(-0 108.207865 185.9748)">12.0</text>
-   </g>
-   <g id="text_8">
-    <text style="font-weight: 500; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="18" y="157.550139" transform="rotate(-0 18 157.550139)">5  Biratnagar</text>
+    <text style="font-weight: 500; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="480.229489" y="64.013975" transform="rotate(-0 480.229489 64.013975)">4  Butwal</text>
    </g>
    <g id="PathCollection_4">
-    <g clip-path="url(#p65849b3caa)">
-     <use xlink:href="#ma00ad82b50" x="104.207865" y="183.463769" style="fill: #302044; stroke: #302044"/>
+    <g clip-path="url(#p9aac434693)">
+     <use xlink:href="#me280661ba1" x="591.057764" y="101.109281" style="fill: #302044; stroke: #302044"/>
     </g>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="595.057764" y="103.716891" transform="rotate(-0 595.057764 103.716891)">5.4</text>
    </g>
   </g>
   <g id="axes_5">
    <g id="patch_6">
-    <path d="M 160.382022 210.218261 
-L 271.617978 210.218261 
-L 271.617978 163.261739 
-L 160.382022 163.261739 
+    <path d="M 632.385985 112.447059 
+L 768.24 112.447059 
+L 768.24 68.4 
+L 632.385985 68.4 
 z
 " style="fill: #f3eefa"/>
    </g>
-   <g id="line2d_13">
-    <path d="M 160.382022 210.218261 
-L 271.617978 210.218261 
-" clip-path="url(#p0342cabb23)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+   <g id="line2d_12">
+    <path d="M 632.385985 112.447059 
+L 768.24 112.447059 
+" clip-path="url(#pcacfe99413)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="matplotlib.axis_9"/>
    <g id="matplotlib.axis_10"/>
-   <g id="line2d_14">
-    <path d="M 163.162921 203.469549 
-L 190.97191 201.684591 
-L 218.780899 199.163591 
-L 246.589888 198.746595 
-" clip-path="url(#p0342cabb23)" style="fill: none; stroke: #302044; stroke-opacity: 0.22; stroke-width: 1.6; stroke-linecap: round"/>
+   <g id="line2d_13">
+    <path d="M 635.961091 106.116502 
+L 671.712148 104.442142 
+L 707.463204 102.077345 
+L 743.21426 101.686186 
+" clip-path="url(#pcacfe99413)" style="fill: none; stroke: #302044; stroke-opacity: 0.35; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
-   <g id="line2d_15">
-    <path d="M 163.162921 199.07044 
-L 190.97191 204.464778 
-L 218.780899 190.369554 
-L 246.589888 188.284369 
-" clip-path="url(#p0342cabb23)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+   <g id="line2d_14">
+    <path d="M 635.961091 111.282043 
+L 671.712148 104.168701 
+L 707.463204 88.611577 
+L 743.21426 87.350296 
+" clip-path="url(#pcacfe99413)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_9">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="250.589888" y="190.7954" transform="rotate(-0 250.589888 190.7954)">9.8</text>
-   </g>
-   <g id="text_10">
-    <text style="font-weight: 500; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="160.382022" y="157.550139" transform="rotate(-0 160.382022 157.550139)">6  Nepalgunj</text>
+    <text style="font-weight: 500; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="632.385985" y="63.941788" transform="rotate(-0 632.385985 63.941788)">5  Biratnagar</text>
    </g>
    <g id="PathCollection_5">
-    <g clip-path="url(#p0342cabb23)">
-     <use xlink:href="#ma00ad82b50" x="246.589888" y="188.284369" style="fill: #302044; stroke: #302044"/>
+    <g clip-path="url(#pcacfe99413)">
+     <use xlink:href="#me280661ba1" x="743.21426" y="87.350296" style="fill: #302044; stroke: #302044"/>
     </g>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="747.21426" y="89.957905" transform="rotate(-0 747.21426 89.957905)">12.0</text>
    </g>
   </g>
   <g id="axes_6">
    <g id="patch_7">
-    <path d="M 302.764045 210.218261 
-L 414 210.218261 
-L 414 163.261739 
-L 302.764045 163.261739 
+    <path d="M 23.76 180.72 
+L 159.614015 180.72 
+L 159.614015 136.672941 
+L 23.76 136.672941 
 z
 " style="fill: #f3eefa"/>
    </g>
-   <g id="line2d_16">
-    <path d="M 302.764045 210.218261 
-L 414 210.218261 
-" clip-path="url(#p36fbef0633)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+   <g id="line2d_15">
+    <path d="M 23.76 180.72 
+L 159.614015 180.72 
+" clip-path="url(#pdc6dd87752)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="matplotlib.axis_11"/>
    <g id="matplotlib.axis_12"/>
-   <g id="line2d_17">
-    <path d="M 305.544944 203.469549 
-L 333.353933 201.684591 
-L 361.162921 199.163591 
-L 388.97191 198.746595 
-" clip-path="url(#p36fbef0633)" style="fill: none; stroke: #302044; stroke-opacity: 0.22; stroke-width: 1.6; stroke-linecap: round"/>
+   <g id="line2d_16">
+    <path d="M 27.335106 174.389444 
+L 63.086162 172.715083 
+L 98.837219 170.350286 
+L 134.588275 169.959127 
+" clip-path="url(#pdc6dd87752)" style="fill: none; stroke: #302044; stroke-opacity: 0.35; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
-   <g id="line2d_18">
-    <path d="M 333.353933 188.584552 
-L 361.162921 202.144002 
-L 388.97191 167.530514 
-" clip-path="url(#p36fbef0633)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+   <g id="line2d_17">
+    <path d="M 27.335106 170.262907 
+L 63.086162 175.323008 
+L 98.837219 162.101135 
+L 134.588275 160.145149 
+" clip-path="url(#pdc6dd87752)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_11">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="392.97191" y="170.041545" transform="rotate(-0 392.97191 170.041545)">19.1</text>
-   </g>
-   <g id="text_12">
-    <text style="font-weight: 500; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="302.764045" y="157.612702" transform="rotate(-0 302.764045 157.612702)">7  Bharatpur</text>
+    <text style="font-weight: 500; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="23.76" y="132.214729" transform="rotate(-0 23.76 132.214729)">6  Nepalgunj</text>
    </g>
    <g id="PathCollection_6">
-    <g clip-path="url(#p36fbef0633)">
-     <use xlink:href="#ma00ad82b50" x="388.97191" y="167.530514" style="fill: #302044; stroke: #302044"/>
+    <g clip-path="url(#pdc6dd87752)">
+     <use xlink:href="#me280661ba1" x="134.588275" y="160.145149" style="fill: #302044; stroke: #302044"/>
     </g>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="138.588275" y="162.752758" transform="rotate(-0 138.588275 162.752758)">9.8</text>
    </g>
   </g>
   <g id="axes_7">
    <g id="patch_8">
-    <path d="M 18 294.74 
-L 129.235955 294.74 
-L 129.235955 247.783478 
-L 18 247.783478 
+    <path d="M 175.916496 180.72 
+L 311.770511 180.72 
+L 311.770511 136.672941 
+L 175.916496 136.672941 
 z
 " style="fill: #f3eefa"/>
    </g>
-   <g id="line2d_19">
-    <path d="M 18 294.74 
-L 129.235955 294.74 
-" clip-path="url(#paaa5003565)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+   <g id="line2d_18">
+    <path d="M 175.916496 180.72 
+L 311.770511 180.72 
+" clip-path="url(#pa210d212ba)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="matplotlib.axis_13"/>
    <g id="matplotlib.axis_14"/>
-   <g id="line2d_20">
-    <path d="M 20.780899 287.991288 
-L 48.589888 286.20633 
-L 76.398876 283.68533 
-L 104.207865 283.268334 
-" clip-path="url(#paaa5003565)" style="fill: none; stroke: #302044; stroke-opacity: 0.22; stroke-width: 1.6; stroke-linecap: round"/>
+   <g id="line2d_19">
+    <path d="M 179.491602 174.389444 
+L 215.242658 172.715083 
+L 250.993715 170.350286 
+L 286.744771 169.959127 
+" clip-path="url(#pa210d212ba)" style="fill: none; stroke: #302044; stroke-opacity: 0.35; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
-   <g id="line2d_21">
-    <path d="M 20.780899 291.929384 
-L 48.589888 281.178697 
-L 76.398876 285.335464 
-L 104.207865 272.864947 
-" clip-path="url(#paaa5003565)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+   <g id="line2d_20">
+    <path d="M 215.242658 160.426733 
+L 250.993715 173.146029 
+L 286.744771 140.677219 
+" clip-path="url(#pa210d212ba)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_13">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="108.207865" y="275.375979" transform="rotate(-0 108.207865 275.375979)">9.8</text>
-   </g>
-   <g id="text_14">
-    <text style="font-weight: 500; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="18" y="242.134441" transform="rotate(-0 18 242.134441)">8  Janakpur</text>
+    <text style="font-weight: 500; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="175.916496" y="132.286916" transform="rotate(-0 175.916496 132.286916)">7  Bharatpur</text>
    </g>
    <g id="PathCollection_7">
-    <g clip-path="url(#paaa5003565)">
-     <use xlink:href="#ma00ad82b50" x="104.207865" y="272.864947" style="fill: #302044; stroke: #302044"/>
+    <g clip-path="url(#pa210d212ba)">
+     <use xlink:href="#me280661ba1" x="286.744771" y="140.677219" style="fill: #302044; stroke: #302044"/>
     </g>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="290.744771" y="143.284829" transform="rotate(-0 290.744771 143.284829)">19.1</text>
    </g>
   </g>
   <g id="axes_8">
    <g id="patch_9">
-    <path d="M 160.382022 294.74 
-L 271.617978 294.74 
-L 271.617978 247.783478 
-L 160.382022 247.783478 
+    <path d="M 328.072993 180.72 
+L 463.927007 180.72 
+L 463.927007 136.672941 
+L 328.072993 136.672941 
 z
 " style="fill: #f3eefa"/>
    </g>
-   <g id="line2d_22">
-    <path d="M 160.382022 294.74 
-L 271.617978 294.74 
-" clip-path="url(#p2d6d617805)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+   <g id="line2d_21">
+    <path d="M 328.072993 180.72 
+L 463.927007 180.72 
+" clip-path="url(#pc08eb03ce7)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="matplotlib.axis_15"/>
    <g id="matplotlib.axis_16"/>
-   <g id="line2d_23">
-    <path d="M 163.162921 287.991288 
-L 190.97191 286.20633 
-L 218.780899 283.68533 
-L 246.589888 283.268334 
-" clip-path="url(#p2d6d617805)" style="fill: none; stroke: #302044; stroke-opacity: 0.22; stroke-width: 1.6; stroke-linecap: round"/>
+   <g id="line2d_22">
+    <path d="M 331.648098 174.389444 
+L 367.399155 172.715083 
+L 403.150211 170.350286 
+L 438.901268 169.959127 
+" clip-path="url(#pc08eb03ce7)" style="fill: none; stroke: #302044; stroke-opacity: 0.35; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
-   <g id="line2d_24">
-    <path d="M 190.97191 288.396807 
-L 218.780899 258.496778 
-L 246.589888 278.864608 
-" clip-path="url(#p2d6d617805)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+   <g id="line2d_23">
+    <path d="M 331.648098 178.083532 
+L 367.399155 167.998966 
+L 403.150211 171.898177 
+L 438.901268 160.200343 
+" clip-path="url(#pc08eb03ce7)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_15">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="250.589888" y="281.37564" transform="rotate(-0 250.589888 281.37564)">7.1</text>
-   </g>
-   <g id="text_16">
-    <text style="font-weight: 500; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="160.382022" y="242.071878" transform="rotate(-0 160.382022 242.071878)">9  Siddharthanagar</text>
+    <text style="font-weight: 500; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="328.072993" y="132.286916" transform="rotate(-0 328.072993 132.286916)">8  Janakpur</text>
    </g>
    <g id="PathCollection_8">
-    <g clip-path="url(#p2d6d617805)">
-     <use xlink:href="#ma00ad82b50" x="246.589888" y="278.864608" style="fill: #302044; stroke: #302044"/>
+    <g clip-path="url(#pc08eb03ce7)">
+     <use xlink:href="#me280661ba1" x="438.901268" y="160.200343" style="fill: #302044; stroke: #302044"/>
     </g>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="442.901268" y="162.807952" transform="rotate(-0 442.901268 162.807952)">9.8</text>
    </g>
   </g>
   <g id="axes_9">
    <g id="patch_10">
-    <path d="M 302.764045 294.74 
-L 414 294.74 
-L 414 247.783478 
-L 302.764045 247.783478 
+    <path d="M 480.229489 180.72 
+L 616.083504 180.72 
+L 616.083504 136.672941 
+L 480.229489 136.672941 
 z
 " style="fill: #f3eefa"/>
    </g>
-   <g id="line2d_25">
-    <path d="M 302.764045 294.74 
-L 414 294.74 
-" clip-path="url(#pcaf2bc2074)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+   <g id="line2d_24">
+    <path d="M 480.229489 180.72 
+L 616.083504 180.72 
+" clip-path="url(#pdf9ec7a078)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="matplotlib.axis_17"/>
    <g id="matplotlib.axis_18"/>
-   <g id="line2d_26">
-    <path d="M 305.544944 287.991288 
-L 333.353933 286.20633 
-L 361.162921 283.68533 
-L 388.97191 283.268334 
-" clip-path="url(#pcaf2bc2074)" style="fill: none; stroke: #302044; stroke-opacity: 0.22; stroke-width: 1.6; stroke-linecap: round"/>
+   <g id="line2d_25">
+    <path d="M 483.804595 174.389444 
+L 519.555651 172.715083 
+L 555.306708 170.350286 
+L 591.057764 169.959127 
+" clip-path="url(#pdf9ec7a078)" style="fill: none; stroke: #302044; stroke-opacity: 0.35; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
-   <g id="line2d_27">
-    <path d="M 305.544944 292.923655 
-L 333.353933 285.666826 
-L 361.162921 287.746224 
-L 388.97191 281.870982 
-" clip-path="url(#pcaf2bc2074)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+   <g id="line2d_26">
+    <path d="M 519.555651 174.769836 
+L 555.306708 146.722437 
+L 591.057764 165.82826 
+" clip-path="url(#pdf9ec7a078)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_17">
-    <text style="font-weight: 700; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="392.97191" y="284.382013" transform="rotate(-0 392.97191 284.382013)">5.8</text>
-   </g>
-   <g id="text_18">
-    <text style="font-weight: 500; font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044" x="302.764045" y="242.134441" transform="rotate(-0 302.764045 242.134441)">10  Dharan</text>
+    <text style="font-weight: 500; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="480.229489" y="132.214729" transform="rotate(-0 480.229489 132.214729)">9  Siddharthanagar</text>
    </g>
    <g id="PathCollection_9">
-    <g clip-path="url(#pcaf2bc2074)">
-     <use xlink:href="#ma00ad82b50" x="388.97191" y="281.870982" style="fill: #302044; stroke: #302044"/>
+    <g clip-path="url(#pdf9ec7a078)">
+     <use xlink:href="#me280661ba1" x="591.057764" y="165.82826" style="fill: #302044; stroke: #302044"/>
     </g>
    </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="595.057764" y="168.435869" transform="rotate(-0 595.057764 168.435869)">7.1</text>
+   </g>
   </g>
-  <g id="text_19">
-   <text style="font-weight: 700; font-size: 12px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; fill: #302044" transform="translate(18 27.755625)">Itahari is the fastest growing city in Nepal (Kathmandu</text>
-   <text style="font-weight: 700; font-size: 12px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; fill: #302044" transform="translate(18 41.193)">ranked 17)</text>
-  </g>
-  <g id="text_20">
-   <text style="font-size: 9.1px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #302044; opacity: 0.7" x="18" y="64.322922" transform="rotate(-0 18 64.322922)">Annual growth of built-up area. Faint line in every panel: Kathmandu.</text>
+  <g id="axes_10">
+   <g id="patch_11">
+    <path d="M 632.385985 180.72 
+L 768.24 180.72 
+L 768.24 136.672941 
+L 632.385985 136.672941 
+z
+" style="fill: #f3eefa"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 632.385985 180.72 
+L 768.24 180.72 
+" clip-path="url(#p2203204f25)" style="fill: none; stroke: #302044; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="matplotlib.axis_19"/>
+   <g id="matplotlib.axis_20"/>
+   <g id="line2d_28">
+    <path d="M 635.961091 174.389444 
+L 671.712148 172.715083 
+L 707.463204 170.350286 
+L 743.21426 169.959127 
+" clip-path="url(#p2203204f25)" style="fill: none; stroke: #302044; stroke-opacity: 0.35; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 635.961091 179.016197 
+L 671.712148 172.209007 
+L 707.463204 174.159564 
+L 743.21426 168.648357 
+" clip-path="url(#p2203204f25)" style="fill: none; stroke: #302044; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 500; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="632.385985" y="132.286916" transform="rotate(-0 632.385985 132.286916)">10  Dharan</text>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#p2203204f25)">
+     <use xlink:href="#me280661ba1" x="743.21426" y="168.648357" style="fill: #302044; stroke: #302044"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="747.21426" y="171.255966" transform="rotate(-0 747.21426 171.255966)">5.8</text>
+   </g>
   </g>
   <g id="text_21">
-   <text style="font-size: 8.6px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; fill: #302044; opacity: 0.7" transform="translate(18 318.146525)">Compound annual rate, clusters ≥ 1 km² at window start. Windows 2002–07 to</text>
-   <text style="font-size: 8.6px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; fill: #302044; opacity: 0.7" transform="translate(18 327.831469)">2017–22. * 2013 stands in for 2012.</text>
+   <text style="font-weight: 700; font-size: 13.125px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044" x="23.76" y="25.570312" transform="rotate(-0 23.76 25.570312)">Itahari is the fastest growing city in Nepal (Kathmandu ranked 17)</text>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044; opacity: 0.7" x="23.76" y="47.529141" transform="rotate(-0 23.76 47.529141)">Annual growth of built-up area. Light line: Kathmandu.</text>
+  </g>
+  <g id="text_23">
+   <text style="font-weight: 500; font-size: 8.925px; font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'DejaVu Sans Mono'; text-anchor: start; fill: #302044; opacity: 0.7" x="23.76" y="208.406449" transform="rotate(-0 23.76 208.406449)">Compound annual rate, clusters ≥ 1 km² at window start. Windows 2002–07 to 2017–22. * 2013 stands in for 2012.</text>
   </g>
  </g>
  <defs>
-  <clipPath id="pd8b5320765">
-   <rect x="18" y="78.74" width="111.235955" height="46.956522"/>
+  <clipPath id="p740ea30986">
+   <rect x="23.76" y="68.4" width="135.854015" height="44.047059"/>
   </clipPath>
-  <clipPath id="p5e63951ee1">
-   <rect x="160.382022" y="78.74" width="111.235955" height="46.956522"/>
+  <clipPath id="pec3984e5b8">
+   <rect x="175.916496" y="68.4" width="135.854015" height="44.047059"/>
   </clipPath>
-  <clipPath id="p2f1b075974">
-   <rect x="302.764045" y="78.74" width="111.235955" height="46.956522"/>
+  <clipPath id="pc59cc4ee16">
+   <rect x="328.072993" y="68.4" width="135.854015" height="44.047059"/>
   </clipPath>
-  <clipPath id="p65849b3caa">
-   <rect x="18" y="163.261739" width="111.235955" height="46.956522"/>
+  <clipPath id="p9aac434693">
+   <rect x="480.229489" y="68.4" width="135.854015" height="44.047059"/>
   </clipPath>
-  <clipPath id="p0342cabb23">
-   <rect x="160.382022" y="163.261739" width="111.235955" height="46.956522"/>
+  <clipPath id="pcacfe99413">
+   <rect x="632.385985" y="68.4" width="135.854015" height="44.047059"/>
   </clipPath>
-  <clipPath id="p36fbef0633">
-   <rect x="302.764045" y="163.261739" width="111.235955" height="46.956522"/>
+  <clipPath id="pdc6dd87752">
+   <rect x="23.76" y="136.672941" width="135.854015" height="44.047059"/>
   </clipPath>
-  <clipPath id="paaa5003565">
-   <rect x="18" y="247.783478" width="111.235955" height="46.956522"/>
+  <clipPath id="pa210d212ba">
+   <rect x="175.916496" y="136.672941" width="135.854015" height="44.047059"/>
   </clipPath>
-  <clipPath id="p2d6d617805">
-   <rect x="160.382022" y="247.783478" width="111.235955" height="46.956522"/>
+  <clipPath id="pc08eb03ce7">
+   <rect x="328.072993" y="136.672941" width="135.854015" height="44.047059"/>
   </clipPath>
-  <clipPath id="pcaf2bc2074">
-   <rect x="302.764045" y="247.783478" width="111.235955" height="46.956522"/>
+  <clipPath id="pdf9ec7a078">
+   <rect x="480.229489" y="136.672941" width="135.854015" height="44.047059"/>
+  </clipPath>
+  <clipPath id="p2203204f25">
+   <rect x="632.385985" y="136.672941" width="135.854015" height="44.047059"/>
   </clipPath>
  </defs>
 </svg>
